@@ -1,0 +1,3 @@
+Se ejecutó generar_datos.py en una carpeta vacía y se comparó con datos/clientes.csv.
+SHA-256 del archivo original: 1b849d9c4d337d0e6c5464b8b2366058f25efa40c28da5b85827cedd9cc37203
+Resultado: IDÉNTICO (la semilla fija reproduce el dataset)

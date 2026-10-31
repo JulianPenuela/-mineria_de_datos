@@ -1,0 +1,13 @@
+igual     cambios_trazabilidad.csv
+igual     clientes_limpio.csv
+igual     clientes_segmentados.csv
+igual     comparacion_original_vs_limpio.csv
+igual     estabilidad_kmeans.csv
+igual     importancia_variables.csv
+igual     metricas_clasificacion.csv
+igual     metricas_regresion.csv
+igual     perfil_segmentos.csv
+igual     resumen.json
+igual     validacion_cruzada.csv
+
+11 de 11 archivos de resultados coinciden con los entregados.

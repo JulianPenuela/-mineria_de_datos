@@ -1,0 +1,52 @@
+[1/6] Leyendo C:\Users\JULIAN\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\cbd02ad7-5542-4290-a969-8af6845dc7e0\5c14b8c7-cc4a-4c54-b525-e24635f1d5ad\scratch-2026-10-31-3b032a\solucion\evidencia_tecnica\datos\clientes.csv
+  1230 registros, 11 columnas
+[2/6] Preparando los datos (Fase 2)
+  - Faltantes antes: edad=44, ciudad=31, valor_total=36, medio_pago=25
+  - Duplicados eliminados: 30 (registros idénticos sesgan conteos).
+  - Texto normalizado (espacios y mayúsculas) en variables categóricas: 'BOGOTÁ' y 'Bogotá' eran la misma ciudad.
+  - Edades imposibles (<18 o >100) pasadas a faltante: 8.
+  - Faltantes imputados: mediana en numéricas, moda en categóricas (se conserva el 100 % de registros).
+  - Atípicos extremos en valor_total (> Q3+3·IQR = 4,678,000): 6; se limitan (winsorizan) a ese tope.
+  - Conversión: ultima_compra → fecha; nueva variable dias_sin_comprar (recencia).
+  - Estandarización (StandardScaler) se aplica dentro de K-Means: las variables tienen escalas muy distintas.
+  Registros: 1230 -> 1200; celdas modificadas: 963
+  Indicador - Ticket promedio por compra: 97,986.31
+  Indicador - % clientes inactivos: 17.33
+  Indicador - Valor total por cliente (media): 1,517,154.75
+  Indicador - Frecuencia mensual media: 1.30
+[3/6] Segmentando clientes con K-Means (Fase 4, alternativa B)
+  k elegido = 3; silhouette = 0.457 (k=2: 0.426, k=4: 0.415)
+             clientes  compras      valor  frecuencia  dias_sin_comprar  edad  inactivos    ticket
+Frecuentes        413     28.5  1716943.1         2.4              20.7  31.3        0.0   60159.0
+Intermedios       485     12.1  1812311.8         1.0              65.2  39.9        1.4  150149.0
+Ocasionales       302      3.1   769923.8         0.3             244.1  48.5       66.6  247622.0
+[4/6] Evaluando clasificación y regresión (alternativas A y C)
+  Clasificación Regresión logística: exactitud 0.637, F1 0.635
+  Clasificación Random Forest: exactitud 0.777, F1 0.773
+  Regresión Regresión lineal: R2 0.205, RMSE 673,910
+  Regresión Random Forest: R2 0.530, RMSE 518,295
+[4b/6] Validación adicional: validación cruzada (5 particiones) y estabilidad de K-Means
+  Clasificación - Regresión logística - accuracy: 0.658 +/- 0.020
+  Clasificación - Regresión logística - f1: 0.634 +/- 0.028
+  Clasificación - Random Forest - accuracy: 0.797 +/- 0.020
+  Clasificación - Random Forest - f1: 0.798 +/- 0.023
+  Regresión - Regresión lineal - r2: 0.251 +/- 0.044
+  Regresión - Regresión lineal - rmse: 613,384.108 +/- 56,002.513
+  Regresión - Random Forest - r2: 0.550 +/- 0.027
+  Regresión - Random Forest - rmse: 475,917.587 +/- 45,844.797
+  Estabilidad (20 semillas distintas): Rand ajustado medio 0.997, minimo 0.997
+  Estabilidad (20 submuestras del 80 %): Rand ajustado medio 0.990, minimo 0.938
+[5/6] Generando visualizaciones
+  visualizaciones/eda_ventas_por_producto.png
+  visualizaciones/eda_frecuencia_por_ciudad.png
+  visualizaciones/eda_frecuencia_vs_valor.png
+  visualizaciones/eda_distribucion_edad.png
+  visualizaciones/clustering_segmentos.png
+  visualizaciones/clustering_eleccion_k.png
+  visualizaciones/perfil_segmentos.png
+  visualizaciones/calidad_cambios_por_motivo.png
+  visualizaciones/clasificacion_matriz_confusion.png
+  visualizaciones/clasificacion_importancia_variables.png
+[6/6] Escribiendo resumen
+  resultados/resumen.json
+Listo.

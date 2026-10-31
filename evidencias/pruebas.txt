@@ -1,0 +1,29 @@
+
+[stderr]
+test_cp01_duplicados (__main__.Pruebas.test_cp01_duplicados) ... ok
+test_cp02_sin_faltantes (__main__.Pruebas.test_cp02_sin_faltantes) ... ok
+test_cp03_edades_validas (__main__.Pruebas.test_cp03_edades_validas) ... ok
+test_cp04_texto_unificado (__main__.Pruebas.test_cp04_texto_unificado) ... ok
+test_cp05_atipicos_limitados (__main__.Pruebas.test_cp05_atipicos_limitados) ... ok
+test_cp06_no_modifica_original (__main__.Pruebas.test_cp06_no_modifica_original) ... ok
+test_cp07_indicadores (__main__.Pruebas.test_cp07_indicadores) ... ok
+test_cp08_kmeans_automatico (__main__.Pruebas.test_cp08_kmeans_automatico) ... ok
+test_cp09_kmeans_manual (__main__.Pruebas.test_cp09_kmeans_manual) ... ok
+test_cp10_clasificacion (__main__.Pruebas.test_cp10_clasificacion) ... ok
+test_cp11_regresion (__main__.Pruebas.test_cp11_regresion) ... ok
+test_cp12_dato_nuevo_cuenta (__main__.Pruebas.test_cp12_dato_nuevo_cuenta) ... ok
+test_cp13_interfaz (__main__.Pruebas.test_cp13_interfaz) ... ok
+test_cp14_trazabilidad_resumen (__main__.Pruebas.test_cp14_trazabilidad_resumen) ... ok
+test_cp15_cambios_apuntan_al_original (__main__.Pruebas.test_cp15_cambios_apuntan_al_original) ... ok
+test_cp16_crud_crear (__main__.Pruebas.test_cp16_crud_crear) ... ok
+test_cp17_crud_actualizar (__main__.Pruebas.test_cp17_crud_actualizar) ... ok
+test_cp18_crud_eliminar (__main__.Pruebas.test_cp18_crud_eliminar) ... ok
+test_cp19_crud_buscar (__main__.Pruebas.test_cp19_crud_buscar) ... ok
+test_cp20_interfaz_crud (__main__.Pruebas.test_cp20_interfaz_crud) ... ok
+test_cp21_validacion_cruzada (__main__.Pruebas.test_cp21_validacion_cruzada) ... ok
+test_cp22_estabilidad_kmeans (__main__.Pruebas.test_cp22_estabilidad_kmeans) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 28.109s
+
+OK
