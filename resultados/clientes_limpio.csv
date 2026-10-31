@@ -1,0 +1,1201 @@
+﻿id_cliente,edad,ciudad,tipo_cliente,num_compras,valor_total,frecuencia_mensual,producto,medio_pago,ultima_compra,estado,dias_sin_comprar
+1,38.0,Bogotá,Básico,1,277200.0,0.1,Ropa,Tarjeta Crédito,2026-06-14,Activo,139
+2,37.0,Bogotá,Regular,12,1821100.0,0.89,Electrónica,Tarjeta Crédito,2026-10-08,Activo,23
+3,44.0,Bogotá,Regular,3,1018700.0,0.25,Electrónica,Transferencia,2026-04-25,Inactivo,189
+4,37.0,Bogotá,Regular,11,1531000.0,0.85,Deportes,Tarjeta Crédito,2026-10-15,Activo,16
+5,31.0,Cartagena,Regular,24,1966600.0,1.73,Alimentos,Tarjeta Crédito,2026-10-18,Activo,13
+6,51.0,Cali,Regular,4,895500.0,0.4,Ropa,Efectivo,2026-06-13,Activo,140
+7,50.0,Bogotá,Básico,3,745800.0,0.24,Deportes,Transferencia,2026-07-14,Activo,109
+8,45.0,Cali,Básico,1,243400.0,0.1,Ropa,Tarjeta Débito,2026-03-26,Inactivo,219
+9,42.0,Bucaramanga,Regular,25,861300.0,2.11,Hogar,Tarjeta Débito,2026-09-24,Activo,37
+10,32.0,Bogotá,Premium,17,2623900.0,1.27,Alimentos,Transferencia,2026-09-15,Activo,46
+11,35.0,Barranquilla,Regular,11,2027600.0,1.07,Ropa,Tarjeta Débito,2026-09-30,Activo,31
+12,46.0,Bucaramanga,Regular,6,1763400.0,0.43,Belleza,Tarjeta Débito,2026-01-11,Inactivo,293
+13,42.0,Bogotá,Premium,16,2920500.0,1.3,Deportes,Tarjeta Débito,2026-08-29,Activo,63
+14,40.0,Bogotá,Básico,2,525800.0,0.17,Deportes,Tarjeta Débito,2025-11-06,Inactivo,359
+15,45.0,Cali,Regular,12,1725500.0,1.19,Deportes,Tarjeta Débito,2026-09-05,Activo,56
+16,24.0,Bogotá,Regular,23,1498000.0,1.86,Deportes,Transferencia,2026-10-13,Activo,18
+17,23.0,Bogotá,Regular,14,2329400.0,1.17,Deportes,Tarjeta Crédito,2026-09-22,Activo,39
+18,40.0,Medellín,Regular,22,1313500.0,2.03,Ropa,Tarjeta Crédito,2026-10-22,Activo,9
+19,48.0,Bogotá,Regular,5,1130600.0,0.42,Deportes,Tarjeta Débito,2026-02-07,Inactivo,266
+20,36.0,Barranquilla,Regular,6,1057800.0,0.6,Electrónica,Tarjeta Débito,2026-08-28,Activo,64
+21,35.0,Medellín,Regular,5,1123300.0,0.36,Alimentos,Efectivo,2025-10-25,Inactivo,371
+22,43.0,Cali,Regular,12,2118700.0,1.06,Alimentos,Transferencia,2026-09-03,Activo,58
+23,55.0,Medellín,Básico,2,587600.0,0.17,Electrónica,Efectivo,2026-05-05,Activo,179
+24,42.0,Medellín,Regular,3,832000.0,0.23,Alimentos,Transferencia,2025-11-15,Inactivo,350
+25,39.0,Medellín,Básico,1,1498000.0,0.08,Electrónica,Tarjeta Crédito,2026-03-01,Inactivo,244
+26,27.0,Bucaramanga,Regular,32,2239300.0,2.36,Deportes,Tarjeta Crédito,2026-09-23,Activo,38
+27,38.0,Medellín,Regular,8,985400.0,0.58,Alimentos,Tarjeta Crédito,2026-09-18,Activo,43
+28,30.0,Cali,Premium,28,2752100.0,2.6,Alimentos,Efectivo,2026-10-19,Activo,12
+29,23.0,Bucaramanga,Regular,26,1408800.0,2.25,Alimentos,Tarjeta Crédito,2026-10-13,Activo,18
+30,47.0,Cali,Regular,11,1211300.0,0.86,Hogar,Tarjeta Crédito,2026-09-20,Activo,41
+31,35.0,Bogotá,Regular,13,2135100.0,1.28,Alimentos,Tarjeta Débito,2026-09-14,Activo,47
+32,61.0,Bogotá,Básico,4,733200.0,0.31,Hogar,Tarjeta Crédito,2025-11-28,Inactivo,337
+33,35.0,Cali,Regular,26,1533600.0,2.59,Deportes,Tarjeta Débito,2026-10-22,Activo,9
+34,35.0,Barranquilla,Regular,10,1511900.0,0.73,Electrónica,Transferencia,2026-07-09,Activo,114
+35,39.0,Barranquilla,Regular,9,1152700.0,0.7,Electrónica,Tarjeta Crédito,2026-07-16,Activo,107
+36,41.0,Barranquilla,Regular,26,1108000.0,2.12,Deportes,Tarjeta Débito,2026-09-22,Activo,39
+37,29.0,Bogotá,Regular,27,1793000.0,2.3,Electrónica,Tarjeta Crédito,2026-09-27,Activo,34
+38,45.0,Barranquilla,Premium,24,3009500.0,1.72,Belleza,Tarjeta Crédito,2026-09-17,Activo,44
+39,33.0,Cali,Regular,29,1657600.0,2.24,Electrónica,Tarjeta Crédito,2026-10-08,Activo,23
+40,42.0,Cartagena,Básico,5,635400.0,0.38,Alimentos,Tarjeta Débito,2026-09-08,Activo,53
+41,47.0,Barranquilla,Regular,11,2405000.0,0.83,Belleza,Tarjeta Débito,2026-09-28,Activo,33
+42,46.0,Medellín,Básico,2,315700.0,0.2,Deportes,Tarjeta Débito,2025-10-26,Inactivo,370
+43,31.0,Barranquilla,Regular,12,1378300.0,1.17,Alimentos,Transferencia,2026-08-30,Activo,62
+44,28.0,Cali,Premium,32,2521300.0,2.96,Deportes,Tarjeta Crédito,2026-09-25,Activo,36
+45,58.0,Bogotá,Regular,3,973600.0,0.24,Deportes,Efectivo,2026-02-24,Inactivo,249
+46,56.0,Cali,Regular,5,1571000.0,0.4,Electrónica,Efectivo,2026-06-16,Activo,137
+47,36.0,Bogotá,Regular,8,872700.0,0.71,Hogar,Tarjeta Crédito,2026-09-18,Activo,43
+48,32.0,Bogotá,Regular,29,1946200.0,2.09,Hogar,Tarjeta Crédito,2026-10-08,Activo,23
+49,46.0,Barranquilla,Premium,20,2750700.0,1.93,Hogar,Tarjeta Crédito,2026-09-22,Activo,39
+50,18.0,Medellín,Regular,25,1760800.0,1.91,Hogar,Tarjeta Crédito,2026-10-19,Activo,12
+51,32.0,Barranquilla,Regular,26,1520800.0,2.18,Alimentos,Tarjeta Crédito,2026-09-27,Activo,34
+52,18.0,Medellín,Regular,24,1321500.0,2.06,Belleza,Tarjeta Crédito,2026-10-08,Activo,23
+53,38.0,Bucaramanga,Regular,5,1434300.0,0.49,Alimentos,Transferencia,2025-10-06,Inactivo,390
+54,32.0,Barranquilla,Regular,9,884300.0,0.7,Electrónica,Tarjeta Crédito,2026-08-29,Activo,63
+55,49.0,Barranquilla,Regular,11,1380100.0,0.84,Deportes,Tarjeta Débito,2026-09-22,Activo,39
+56,39.0,Medellín,Básico,1,265400.0,0.09,Alimentos,Efectivo,2025-12-16,Inactivo,319
+57,35.0,Cartagena,Premium,13,2831900.0,1.08,Deportes,Transferencia,2026-07-26,Activo,97
+58,44.0,Medellín,Premium,17,3467000.0,1.37,Ropa,Tarjeta Débito,2026-10-09,Activo,22
+59,29.0,Barranquilla,Regular,27,2055000.0,2.35,Ropa,Tarjeta Débito,2026-10-04,Activo,27
+60,38.0,Medellín,Regular,24,1144900.0,1.93,Alimentos,Tarjeta Crédito,2026-10-29,Activo,2
+61,33.0,Bogotá,Básico,6,778000.0,0.51,Deportes,Transferencia,2026-08-25,Activo,67
+62,43.0,Cali,Regular,16,2002300.0,1.18,Hogar,Efectivo,2026-10-08,Activo,23
+63,42.0,Medellín,Regular,11,1391500.0,0.85,Alimentos,Tarjeta Crédito,2026-10-06,Activo,25
+64,51.0,Bogotá,Básico,2,416600.0,0.19,Belleza,Efectivo,2025-10-31,Inactivo,365
+65,38.0,Medellín,Regular,12,1498000.0,0.91,Electrónica,Tarjeta Crédito,2026-08-25,Activo,67
+66,38.0,Bogotá,Regular,12,1498000.0,1.06,Hogar,Tarjeta Crédito,2026-08-23,Activo,69
+67,52.0,Cartagena,Premium,19,3291400.0,1.38,Alimentos,Tarjeta Débito,2026-09-22,Activo,39
+68,28.0,Cali,Regular,22,1715800.0,1.77,Belleza,Efectivo,2026-10-07,Activo,24
+69,32.0,Bogotá,Regular,26,1295000.0,2.57,Belleza,Tarjeta Crédito,2026-09-27,Activo,34
+70,28.0,Barranquilla,Regular,16,1873500.0,1.24,Alimentos,Tarjeta Crédito,2026-08-23,Activo,69
+71,22.0,Cali,Regular,30,1905100.0,2.85,Alimentos,Efectivo,2026-09-27,Activo,34
+72,32.0,Barranquilla,Regular,13,1721300.0,0.96,Ropa,Tarjeta Crédito,2026-07-17,Activo,106
+73,36.0,Cali,Básico,1,188700.0,0.07,Ropa,Transferencia,2025-11-23,Inactivo,342
+74,27.0,Bogotá,Premium,41,3066400.0,3.21,Deportes,Tarjeta Débito,2026-10-25,Activo,6
+75,28.0,Bogotá,Regular,31,1914500.0,2.56,Alimentos,Tarjeta Débito,2026-10-23,Activo,8
+76,26.0,Barranquilla,Regular,36,2225300.0,2.9,Alimentos,Tarjeta Crédito,2026-10-20,Activo,11
+77,21.0,Barranquilla,Regular,38,2396900.0,3.24,Belleza,Transferencia,2026-10-06,Activo,25
+78,42.0,Barranquilla,Regular,13,1611200.0,1.26,Electrónica,Transferencia,2026-10-15,Activo,16
+79,44.0,Bogotá,Regular,12,2045400.0,0.87,Belleza,Tarjeta Crédito,2026-09-11,Activo,50
+80,60.0,Bucaramanga,Básico,2,487700.0,0.18,Deportes,Efectivo,2025-10-05,Inactivo,391
+81,26.0,Medellín,Regular,14,1896900.0,1.24,Alimentos,Efectivo,2026-09-10,Activo,51
+82,38.0,Barranquilla,Regular,17,2144700.0,1.58,Alimentos,Tarjeta Crédito,2026-08-08,Activo,84
+83,38.0,Bogotá,Básico,1,232200.0,0.07,Alimentos,Tarjeta Débito,2026-07-08,Activo,115
+84,26.0,Barranquilla,Regular,23,1736200.0,1.67,Alimentos,Transferencia,2026-10-16,Activo,15
+85,21.0,Cartagena,Regular,42,2335600.0,3.68,Ropa,Tarjeta Débito,2026-10-25,Activo,6
+86,38.0,Bogotá,Regular,35,2229800.0,3.17,Deportes,Transferencia,2026-10-15,Activo,16
+87,33.0,Barranquilla,Regular,12,2130800.0,0.91,Hogar,Tarjeta Crédito,2026-08-27,Activo,65
+88,45.0,Cali,Regular,8,1086700.0,0.68,Alimentos,Transferencia,2026-08-04,Activo,88
+89,32.0,Bogotá,Regular,31,1684900.0,2.23,Alimentos,Transferencia,2026-10-07,Activo,24
+90,50.0,Bogotá,Regular,12,1498000.0,0.88,Ropa,Tarjeta Crédito,2026-09-18,Activo,43
+91,40.0,Barranquilla,Regular,26,2346800.0,1.99,Deportes,Tarjeta Débito,2026-10-15,Activo,16
+92,33.0,Bogotá,Regular,14,1851900.0,1.35,Hogar,Tarjeta Débito,2026-10-13,Activo,18
+93,40.0,Bogotá,Premium,17,3262900.0,1.33,Alimentos,Transferencia,2026-09-22,Activo,39
+94,51.0,Bucaramanga,Regular,12,1422300.0,0.86,Hogar,Tarjeta Crédito,2026-09-06,Activo,55
+95,30.0,Cali,Regular,23,889600.0,2.0,Hogar,Tarjeta Crédito,2026-09-27,Activo,34
+96,25.0,Barranquilla,Regular,10,1920000.0,0.74,Alimentos,Tarjeta Crédito,2026-08-23,Activo,69
+97,37.0,Cali,Regular,14,2170600.0,1.2,Belleza,Tarjeta Débito,2026-08-14,Activo,78
+98,38.0,Cali,Regular,23,1311600.0,1.66,Hogar,Tarjeta Débito,2026-10-07,Activo,24
+99,31.0,Barranquilla,Regular,37,1308600.0,2.93,Electrónica,Tarjeta Débito,2026-10-07,Activo,24
+100,28.0,Bogotá,Básico,1,221800.0,0.1,Electrónica,Transferencia,2026-05-28,Activo,156
+101,46.0,Medellín,Básico,3,596000.0,0.25,Ropa,Tarjeta Crédito,2026-04-09,Inactivo,205
+102,55.0,Cali,Regular,15,1568700.0,1.47,Deportes,Transferencia,2026-09-29,Activo,32
+103,33.0,Cartagena,Regular,23,1754500.0,1.99,Deportes,Tarjeta Débito,2026-10-17,Activo,14
+104,39.0,Medellín,Regular,5,1812300.0,0.37,Hogar,Transferencia,2026-06-16,Activo,137
+105,63.0,Cartagena,Regular,4,1002300.0,0.37,Belleza,Tarjeta Crédito,2026-06-05,Activo,148
+106,44.0,Barranquilla,Regular,11,1118700.0,0.8,Electrónica,Tarjeta Débito,2026-09-19,Activo,42
+107,32.0,Medellín,Premium,15,2518700.0,1.44,Alimentos,Transferencia,2026-09-27,Activo,34
+108,32.0,Medellín,Regular,27,1477400.0,2.13,Belleza,Efectivo,2026-09-24,Activo,37
+109,23.0,Bogotá,Regular,32,1701600.0,2.31,Deportes,Tarjeta Crédito,2026-10-17,Activo,14
+110,42.0,Cali,Básico,1,280100.0,0.08,Deportes,Tarjeta Débito,2026-07-28,Activo,95
+111,36.0,Bogotá,Regular,13,2092000.0,0.96,Hogar,Tarjeta Crédito,2026-07-24,Activo,99
+112,18.0,Medellín,Regular,28,1323900.0,2.01,Deportes,Tarjeta Crédito,2026-09-27,Activo,34
+113,28.0,Bogotá,Regular,28,1570200.0,2.23,Ropa,Efectivo,2026-10-11,Activo,20
+114,25.0,Cartagena,Regular,9,1225800.0,0.69,Ropa,Transferencia,2026-07-17,Activo,106
+115,29.0,Bogotá,Regular,29,1770300.0,2.86,Alimentos,Tarjeta Débito,2026-10-31,Activo,0
+116,53.0,Medellín,Regular,4,1013200.0,0.34,Alimentos,Tarjeta Crédito,2026-03-14,Inactivo,231
+117,48.0,Medellín,Básico,1,275500.0,0.09,Hogar,Tarjeta Crédito,2026-01-26,Inactivo,278
+118,43.0,Bogotá,Regular,16,2484000.0,1.2,Belleza,Tarjeta Débito,2026-10-17,Activo,14
+119,52.0,Medellín,Regular,10,859400.0,0.79,Belleza,Tarjeta Crédito,2026-09-15,Activo,46
+120,31.0,Barranquilla,Regular,7,1003900.0,0.56,Hogar,Transferencia,2026-07-20,Activo,103
+121,37.0,Cali,Regular,11,1659400.0,0.8,Hogar,Tarjeta Crédito,2026-08-28,Activo,64
+122,52.0,Medellín,Regular,13,2163500.0,1.26,Electrónica,Tarjeta Crédito,2026-08-03,Activo,89
+123,32.0,Bucaramanga,Regular,33,2264500.0,2.39,Ropa,Efectivo,2026-10-21,Activo,10
+124,40.0,Bogotá,Regular,12,1866800.0,1.15,Hogar,Tarjeta Crédito,2026-09-15,Activo,46
+125,18.0,Bucaramanga,Básico,23,760600.0,2.02,Belleza,Tarjeta Débito,2026-09-22,Activo,39
+126,50.0,Bogotá,Regular,11,1050000.0,0.88,Belleza,Tarjeta Débito,2026-08-29,Activo,63
+127,40.0,Bucaramanga,Regular,30,1684700.0,2.64,Deportes,Tarjeta Crédito,2026-09-26,Activo,35
+128,31.0,Cartagena,Regular,36,1300100.0,2.83,Hogar,Tarjeta Débito,2026-09-22,Activo,39
+129,22.0,Bucaramanga,Regular,22,1295900.0,1.68,Deportes,Tarjeta Débito,2026-10-26,Activo,5
+130,51.0,Bogotá,Premium,14,2686900.0,1.05,Ropa,Efectivo,2026-07-10,Activo,113
+131,26.0,Cali,Regular,35,1917500.0,3.27,Hogar,Tarjeta Crédito,2026-10-09,Activo,22
+132,41.0,Bucaramanga,Regular,4,993100.0,0.37,Alimentos,Tarjeta Débito,2026-05-16,Activo,168
+133,43.0,Cali,Regular,12,2265300.0,1.18,Electrónica,Efectivo,2026-08-31,Activo,61
+134,43.0,Medellín,Regular,21,1130500.0,1.76,Belleza,Tarjeta Crédito,2026-10-13,Activo,18
+135,42.0,Medellín,Regular,16,1393700.0,1.52,Electrónica,Tarjeta Crédito,2026-09-19,Activo,42
+136,30.0,Bogotá,Regular,29,1398900.0,2.57,Hogar,Tarjeta Crédito,2026-10-23,Activo,8
+137,57.0,Medellín,Regular,4,1577600.0,0.3,Hogar,Tarjeta Crédito,2026-01-10,Inactivo,294
+138,43.0,Bogotá,Regular,12,1988500.0,0.87,Alimentos,Tarjeta Crédito,2026-10-01,Activo,30
+139,69.0,Cali,Regular,3,886100.0,0.23,Deportes,Transferencia,2026-06-09,Activo,144
+140,37.0,Medellín,Regular,34,2176500.0,3.4,Belleza,Tarjeta Débito,2026-10-10,Activo,21
+141,33.0,Bogotá,Regular,13,1832700.0,1.06,Ropa,Tarjeta Débito,2026-07-24,Activo,99
+142,38.0,Bogotá,Regular,7,1218200.0,0.66,Hogar,Tarjeta Crédito,2026-07-26,Activo,97
+143,57.0,Cartagena,Regular,3,910700.0,0.26,Electrónica,Tarjeta Crédito,2026-03-21,Inactivo,224
+144,43.0,Cali,Regular,15,2315800.0,1.28,Alimentos,Efectivo,2026-08-16,Activo,76
+145,38.0,Cali,Regular,13,1807700.0,0.94,Belleza,Efectivo,2026-07-18,Activo,105
+146,33.0,Barranquilla,Regular,25,1341600.0,1.99,Electrónica,Transferencia,2026-10-17,Activo,14
+147,32.0,Cali,Regular,23,1045000.0,2.08,Belleza,Tarjeta Crédito,2026-10-09,Activo,22
+148,54.0,Medellín,Regular,11,1498000.0,0.88,Hogar,Tarjeta Crédito,2026-08-26,Activo,66
+149,31.0,Cali,Premium,15,2526900.0,1.09,Belleza,Efectivo,2026-10-12,Activo,19
+150,34.0,Bogotá,Regular,33,1698900.0,3.22,Electrónica,Tarjeta Crédito,2026-10-12,Activo,19
+151,44.0,Cali,Regular,5,1451500.0,0.38,Belleza,Tarjeta Crédito,2026-01-31,Inactivo,273
+152,55.0,Bogotá,Básico,2,315300.0,0.18,Hogar,Tarjeta Crédito,2026-04-03,Inactivo,211
+153,40.0,Cartagena,Regular,26,877100.0,2.45,Hogar,Tarjeta Crédito,2026-09-28,Activo,33
+154,53.0,Cali,Regular,15,1600200.0,1.1,Hogar,Transferencia,2026-10-11,Activo,20
+155,33.0,Bogotá,Regular,20,1498000.0,2.0,Electrónica,Transferencia,2026-10-13,Activo,18
+156,43.0,Cali,Regular,12,1845500.0,0.93,Deportes,Tarjeta Débito,2026-07-06,Activo,117
+157,39.0,Bogotá,Regular,26,2168600.0,2.51,Electrónica,Tarjeta Débito,2026-09-28,Activo,33
+158,35.0,Medellín,Básico,4,448300.0,0.32,Ropa,Efectivo,2026-07-09,Activo,114
+159,49.0,Bucaramanga,Regular,10,2037200.0,0.8,Belleza,Tarjeta Débito,2026-10-14,Activo,17
+160,45.0,Barranquilla,Regular,4,1012000.0,0.3,Ropa,Efectivo,2026-06-03,Activo,150
+161,26.0,Barranquilla,Regular,40,2341700.0,3.01,Deportes,Tarjeta Débito,2026-10-17,Activo,14
+162,45.0,Medellín,Básico,2,475100.0,0.16,Deportes,Transferencia,2025-11-26,Inactivo,339
+163,22.0,Medellín,Regular,23,1376000.0,2.0,Deportes,Tarjeta Crédito,2026-10-21,Activo,10
+164,39.0,Bogotá,Premium,33,2744200.0,3.09,Belleza,Tarjeta Débito,2026-10-04,Activo,27
+165,34.0,Cali,Premium,15,3267600.0,1.2,Electrónica,Transferencia,2026-08-24,Activo,68
+166,33.0,Cali,Regular,12,1579200.0,1.0,Hogar,Transferencia,2026-08-28,Activo,64
+167,58.0,Bogotá,Regular,4,977300.0,0.39,Hogar,Transferencia,2026-01-14,Inactivo,290
+168,53.0,Bogotá,Básico,3,699200.0,0.22,Electrónica,Tarjeta Débito,2026-07-30,Activo,93
+169,36.0,Bogotá,Regular,27,1836100.0,2.4,Electrónica,Efectivo,2026-10-13,Activo,18
+170,45.0,Bogotá,Regular,5,1503000.0,0.5,Electrónica,Tarjeta Crédito,2026-02-11,Inactivo,262
+171,18.0,Bogotá,Regular,33,1886200.0,2.43,Belleza,Tarjeta Débito,2026-10-16,Activo,15
+172,31.0,Medellín,Regular,14,2438000.0,1.14,Belleza,Tarjeta Crédito,2026-07-20,Activo,103
+173,38.0,Medellín,Regular,23,866700.0,1.78,Alimentos,Tarjeta Débito,2026-10-07,Activo,24
+174,52.0,Medellín,Básico,2,559900.0,0.19,Belleza,Transferencia,2026-02-19,Inactivo,254
+175,36.0,Bogotá,Regular,26,1379500.0,2.24,Ropa,Transferencia,2026-10-18,Activo,13
+176,37.0,Cali,Premium,26,1498000.0,2.07,Ropa,Tarjeta Débito,2026-10-24,Activo,7
+177,28.0,Bucaramanga,Premium,14,2624300.0,1.27,Belleza,Tarjeta Crédito,2026-09-15,Activo,46
+178,66.0,Bogotá,Regular,5,1578700.0,0.39,Electrónica,Tarjeta Débito,2026-02-20,Inactivo,253
+179,51.0,Medellín,Básico,2,447600.0,0.18,Electrónica,Tarjeta Crédito,2025-10-06,Inactivo,390
+180,48.0,Cali,Regular,14,2008000.0,1.29,Alimentos,Tarjeta Crédito,2026-07-21,Activo,102
+181,43.0,Bogotá,Básico,2,464300.0,0.2,Hogar,Transferencia,2025-12-19,Inactivo,316
+182,62.0,Medellín,Regular,4,949200.0,0.36,Deportes,Tarjeta Débito,2025-11-19,Inactivo,346
+183,53.0,Medellín,Regular,14,1768900.0,1.27,Alimentos,Tarjeta Crédito,2026-07-07,Activo,116
+184,45.0,Medellín,Regular,22,1534400.0,1.68,Hogar,Efectivo,2026-10-25,Activo,6
+185,50.0,Bucaramanga,Premium,11,3159800.0,0.9,Electrónica,Tarjeta Crédito,2026-03-21,Inactivo,224
+186,33.0,Bucaramanga,Regular,11,1616100.0,1.03,Electrónica,Tarjeta Débito,2026-07-12,Activo,111
+187,38.0,Medellín,Regular,7,1380300.0,0.57,Ropa,Tarjeta Crédito,2026-09-02,Activo,59
+188,36.0,Medellín,Regular,24,1523500.0,2.2,Hogar,Tarjeta Crédito,2026-10-04,Activo,27
+189,55.0,Cartagena,Regular,8,1269600.0,0.68,Electrónica,Tarjeta Débito,2026-09-09,Activo,52
+190,28.0,Cali,Regular,23,1526600.0,1.7,Deportes,Efectivo,2026-10-01,Activo,30
+191,38.0,Cartagena,Regular,9,1969200.0,0.7,Belleza,Tarjeta Débito,2025-12-03,Inactivo,332
+192,33.0,Barranquilla,Regular,22,1338600.0,1.75,Belleza,Transferencia,2026-10-10,Activo,21
+193,36.0,Bogotá,Regular,33,1575700.0,2.97,Electrónica,Transferencia,2026-10-07,Activo,24
+194,48.0,Bogotá,Básico,2,582000.0,0.19,Hogar,Transferencia,2026-04-25,Inactivo,189
+195,34.0,Bogotá,Regular,25,1782700.0,1.92,Ropa,Transferencia,2026-10-11,Activo,20
+196,37.0,Bucaramanga,Regular,32,1062500.0,2.61,Belleza,Transferencia,2026-10-30,Activo,1
+197,42.0,Bogotá,Regular,18,2158800.0,1.44,Alimentos,Transferencia,2026-10-13,Activo,18
+198,70.0,Barranquilla,Básico,3,749100.0,0.22,Ropa,Tarjeta Crédito,2026-06-06,Activo,147
+199,27.0,Cali,Premium,32,2649700.0,2.81,Belleza,Tarjeta Crédito,2026-09-27,Activo,34
+200,22.0,Bucaramanga,Regular,32,1312700.0,2.42,Alimentos,Efectivo,2026-10-07,Activo,24
+201,38.0,Barranquilla,Regular,7,1919500.0,0.57,Belleza,Transferencia,2025-11-14,Inactivo,351
+202,57.0,Bogotá,Básico,4,625800.0,0.37,Belleza,Transferencia,2026-02-14,Inactivo,259
+203,29.0,Medellín,Regular,11,1477100.0,1.08,Belleza,Tarjeta Débito,2026-09-06,Activo,55
+204,20.0,Cali,Regular,24,1550000.0,1.93,Alimentos,Transferencia,2026-09-26,Activo,35
+205,24.0,Bucaramanga,Regular,31,1258800.0,2.77,Ropa,Efectivo,2026-10-20,Activo,11
+206,34.0,Barranquilla,Regular,41,1779100.0,3.21,Electrónica,Efectivo,2026-10-09,Activo,22
+207,32.0,Cali,Regular,26,1442500.0,2.03,Deportes,Tarjeta Crédito,2026-10-14,Activo,17
+208,37.0,Bucaramanga,Regular,14,1566100.0,1.18,Hogar,Tarjeta Débito,2026-10-09,Activo,22
+209,34.0,Medellín,Regular,35,1508900.0,2.88,Electrónica,Tarjeta Crédito,2026-10-15,Activo,16
+210,39.0,Bogotá,Premium,19,2844900.0,1.52,Deportes,Tarjeta Crédito,2026-10-13,Activo,18
+211,49.0,Bucaramanga,Regular,10,1485600.0,0.84,Ropa,Tarjeta Débito,2026-10-05,Activo,26
+212,42.0,Cali,Regular,16,2067400.0,1.18,Alimentos,Tarjeta Crédito,2026-10-04,Activo,27
+213,27.0,Bucaramanga,Regular,30,1927200.0,2.91,Deportes,Transferencia,2026-10-13,Activo,18
+214,48.0,Medellín,Básico,3,640900.0,0.22,Hogar,Tarjeta Débito,2025-10-13,Inactivo,383
+215,30.0,Cali,Regular,11,1398300.0,1.09,Deportes,Efectivo,2026-09-13,Activo,48
+216,43.0,Medellín,Regular,12,2011600.0,1.11,Alimentos,Tarjeta Crédito,2026-08-03,Activo,89
+217,30.0,Medellín,Regular,39,1522500.0,3.04,Alimentos,Transferencia,2026-10-03,Activo,28
+218,38.0,Bogotá,Regular,32,1771300.0,3.09,Hogar,Tarjeta Débito,2026-09-25,Activo,36
+219,43.0,Barranquilla,Regular,4,1028000.0,0.36,Deportes,Tarjeta Débito,2026-03-04,Inactivo,241
+220,28.0,Bogotá,Regular,8,1107600.0,0.75,Hogar,Tarjeta Débito,2026-08-12,Activo,80
+221,40.0,Medellín,Regular,28,1097100.0,2.17,Alimentos,Tarjeta Débito,2026-10-22,Activo,9
+222,51.0,Medellín,Regular,13,1899700.0,1.06,Deportes,Tarjeta Débito,2026-07-19,Activo,104
+223,42.0,Medellín,Regular,10,1809800.0,0.97,Electrónica,Efectivo,2026-07-22,Activo,101
+224,46.0,Cali,Regular,3,851300.0,0.25,Ropa,Transferencia,2026-01-20,Inactivo,284
+225,18.0,Barranquilla,Regular,28,2085400.0,2.58,Deportes,Tarjeta Crédito,2026-10-31,Activo,0
+226,40.0,Barranquilla,Básico,1,261800.0,0.07,Hogar,Transferencia,2026-05-23,Activo,161
+227,32.0,Medellín,Regular,26,2008400.0,2.49,Electrónica,Tarjeta Débito,2026-10-23,Activo,8
+228,38.0,Medellín,Premium,15,2564300.0,1.21,Ropa,Tarjeta Crédito,2026-09-05,Activo,56
+229,48.0,Bogotá,Regular,13,1772900.0,1.09,Ropa,Tarjeta Crédito,2026-08-19,Activo,73
+230,32.0,Cali,Regular,21,1193400.0,1.71,Belleza,Tarjeta Débito,2026-09-29,Activo,32
+231,32.0,Bucaramanga,Básico,21,423600.0,1.52,Deportes,Tarjeta Crédito,2026-10-16,Activo,15
+232,45.0,Medellín,Premium,14,2763300.0,1.23,Hogar,Transferencia,2026-08-21,Activo,71
+233,56.0,Cartagena,Básico,2,632700.0,0.15,Hogar,Tarjeta Débito,2026-07-16,Activo,107
+234,39.0,Bogotá,Regular,9,1636500.0,0.76,Hogar,Transferencia,2026-08-22,Activo,70
+235,36.0,Barranquilla,Regular,4,924600.0,0.32,Belleza,Tarjeta Crédito,2025-11-08,Inactivo,357
+236,53.0,Barranquilla,Regular,4,991400.0,0.35,Ropa,Tarjeta Débito,2026-04-20,Inactivo,194
+237,26.0,Barranquilla,Regular,11,1549300.0,1.01,Belleza,Tarjeta Crédito,2026-08-21,Activo,71
+238,33.0,Barranquilla,Regular,3,938600.0,0.29,Electrónica,Tarjeta Débito,2026-06-02,Activo,151
+239,35.0,Bogotá,Regular,24,1433000.0,2.31,Alimentos,Tarjeta Débito,2026-09-24,Activo,37
+240,23.0,Barranquilla,Regular,25,1778800.0,1.81,Electrónica,Efectivo,2026-10-01,Activo,30
+241,33.0,Medellín,Básico,2,515700.0,0.15,Alimentos,Efectivo,2026-05-19,Activo,165
+242,44.0,Cali,Regular,4,903900.0,0.36,Electrónica,Tarjeta Crédito,2025-12-19,Inactivo,316
+243,22.0,Bogotá,Regular,23,1676800.0,1.9,Electrónica,Tarjeta Crédito,2026-09-25,Activo,36
+244,42.0,Bogotá,Regular,11,1043400.0,0.86,Electrónica,Tarjeta Débito,2026-07-05,Activo,118
+245,41.0,Cartagena,Premium,14,2523100.0,1.23,Deportes,Tarjeta Crédito,2026-10-17,Activo,14
+246,51.0,Medellín,Regular,4,861400.0,0.34,Alimentos,Efectivo,2026-07-08,Activo,115
+247,31.0,Medellín,Regular,13,1873600.0,1.01,Alimentos,Tarjeta Crédito,2026-07-05,Activo,118
+248,43.0,Bogotá,Regular,11,1718000.0,1.01,Hogar,Transferencia,2026-09-02,Activo,59
+249,34.0,Cali,Regular,9,1454100.0,0.74,Hogar,Transferencia,2026-07-15,Activo,108
+250,39.0,Barranquilla,Premium,18,3158100.0,1.66,Ropa,Tarjeta Débito,2026-07-14,Activo,109
+251,54.0,Cartagena,Regular,10,1674300.0,1.0,Belleza,Transferencia,2026-07-05,Activo,118
+252,38.0,Cali,Básico,3,759700.0,0.24,Deportes,Efectivo,2026-03-07,Inactivo,238
+253,38.0,Bogotá,Regular,10,1262800.0,0.78,Electrónica,Tarjeta Crédito,2026-08-07,Activo,85
+254,25.0,Bogotá,Regular,34,1936000.0,2.43,Electrónica,Transferencia,2026-10-09,Activo,22
+255,28.0,Bogotá,Premium,32,2518000.0,2.98,Ropa,Tarjeta Débito,2026-10-27,Activo,4
+256,48.0,Cali,Regular,11,2165500.0,0.85,Hogar,Efectivo,2026-09-23,Activo,38
+257,46.0,Cartagena,Básico,3,531800.0,0.22,Ropa,Efectivo,2026-03-01,Inactivo,244
+258,21.0,Bogotá,Regular,28,1443300.0,2.23,Belleza,Transferencia,2026-10-13,Activo,18
+259,38.0,Medellín,Regular,32,2194600.0,2.31,Hogar,Efectivo,2026-10-11,Activo,20
+260,43.0,Barranquilla,Regular,9,1152900.0,0.64,Alimentos,Tarjeta Crédito,2026-09-10,Activo,51
+261,37.0,Cali,Regular,37,2423200.0,2.8,Ropa,Tarjeta Crédito,2026-10-27,Activo,4
+262,50.0,Barranquilla,Regular,5,1424900.0,0.36,Alimentos,Transferencia,2026-06-14,Activo,139
+263,29.0,Medellín,Regular,23,1360300.0,1.84,Alimentos,Efectivo,2026-10-03,Activo,28
+264,38.0,Bogotá,Regular,32,1833500.0,2.67,Alimentos,Efectivo,2026-10-21,Activo,10
+265,59.0,Medellín,Regular,4,1419200.0,0.29,Hogar,Transferencia,2025-11-21,Inactivo,344
+266,23.0,Medellín,Regular,25,1871000.0,1.88,Belleza,Tarjeta Crédito,2026-10-18,Activo,13
+267,18.0,Barranquilla,Regular,27,1680900.0,2.59,Hogar,Tarjeta Crédito,2026-10-25,Activo,6
+268,39.0,Bogotá,Regular,28,1144000.0,2.5,Electrónica,Transferencia,2026-09-22,Activo,39
+269,31.0,Medellín,Regular,23,1417100.0,2.08,Electrónica,Transferencia,2026-10-08,Activo,23
+270,37.0,Cartagena,Regular,24,1498000.0,1.79,Electrónica,Efectivo,2026-10-16,Activo,15
+271,36.0,Cali,Premium,30,2540700.0,2.74,Ropa,Tarjeta Débito,2026-10-18,Activo,13
+272,38.0,Bogotá,Básico,38,584600.0,3.39,Deportes,Tarjeta Crédito,2026-10-04,Activo,27
+273,28.0,Cartagena,Regular,28,1706600.0,2.32,Electrónica,Tarjeta Débito,2026-10-27,Activo,4
+274,42.0,Bogotá,Regular,9,1552300.0,0.87,Electrónica,Tarjeta Débito,2026-07-29,Activo,94
+275,39.0,Barranquilla,Regular,15,1498000.0,1.08,Alimentos,Transferencia,2026-09-03,Activo,58
+276,39.0,Bogotá,Regular,12,2269400.0,1.0,Alimentos,Tarjeta Débito,2026-10-04,Activo,27
+277,41.0,Bucaramanga,Regular,29,1623900.0,2.69,Alimentos,Tarjeta Débito,2026-09-30,Activo,31
+278,41.0,Bogotá,Regular,9,1044400.0,0.81,Electrónica,Tarjeta Débito,2026-10-05,Activo,26
+279,64.0,Medellín,Básico,2,544700.0,0.15,Hogar,Transferencia,2026-01-03,Inactivo,301
+280,49.0,Cartagena,Regular,5,895100.0,0.4,Ropa,Tarjeta Débito,2025-10-06,Inactivo,390
+281,25.0,Cali,Regular,21,1242400.0,1.77,Deportes,Tarjeta Crédito,2026-10-13,Activo,18
+282,42.0,Bogotá,Regular,34,1563100.0,3.0,Alimentos,Tarjeta Débito,2026-10-17,Activo,14
+283,38.0,Bogotá,Regular,23,1767900.0,1.69,Deportes,Tarjeta Débito,2026-10-03,Activo,28
+284,40.0,Bogotá,Regular,29,1067900.0,2.22,Alimentos,Tarjeta Crédito,2026-10-03,Activo,28
+285,46.0,Bogotá,Regular,9,1498200.0,0.7,Ropa,Efectivo,2026-07-05,Activo,118
+286,25.0,Cali,Regular,11,1744500.0,0.93,Alimentos,Tarjeta Crédito,2026-09-17,Activo,44
+287,20.0,Medellín,Regular,18,1658900.0,1.29,Ropa,Tarjeta Crédito,2026-10-19,Activo,12
+288,33.0,Cartagena,Regular,13,1498000.0,1.01,Electrónica,Tarjeta Débito,2026-07-17,Activo,106
+289,42.0,Barranquilla,Regular,7,920000.0,0.6,Alimentos,Tarjeta Débito,2026-08-11,Activo,81
+290,40.0,Cartagena,Regular,30,1538200.0,2.17,Hogar,Tarjeta Débito,2026-10-19,Activo,12
+291,49.0,Cali,Básico,2,554600.0,0.15,Hogar,Tarjeta Crédito,2026-05-03,Inactivo,181
+292,30.0,Medellín,Premium,36,2583400.0,2.78,Deportes,Tarjeta Crédito,2026-10-29,Activo,2
+293,43.0,Cali,Regular,7,2136700.0,0.54,Electrónica,Tarjeta Crédito,2026-07-15,Activo,108
+294,33.0,Medellín,Regular,30,2433100.0,2.57,Electrónica,Efectivo,2026-09-22,Activo,39
+295,62.0,Bogotá,Básico,1,243600.0,0.08,Ropa,Transferencia,2026-07-10,Activo,113
+296,37.0,Bucaramanga,Básico,2,504100.0,0.19,Alimentos,Tarjeta Crédito,2026-04-25,Inactivo,189
+297,51.0,Barranquilla,Regular,3,950600.0,0.24,Belleza,Tarjeta Crédito,2026-04-15,Inactivo,199
+298,52.0,Medellín,Básico,2,654600.0,0.17,Alimentos,Transferencia,2026-07-25,Activo,98
+299,49.0,Medellín,Regular,9,2073200.0,0.79,Hogar,Tarjeta Crédito,2026-05-03,Inactivo,181
+300,45.0,Bogotá,Regular,10,1498000.0,0.73,Ropa,Transferencia,2026-10-20,Activo,11
+301,47.0,Cali,Básico,3,644400.0,0.28,Ropa,Transferencia,2025-10-06,Inactivo,390
+302,33.0,Medellín,Regular,24,1272600.0,1.8,Ropa,Tarjeta Crédito,2026-09-22,Activo,39
+303,43.0,Bucaramanga,Regular,11,1878200.0,0.99,Deportes,Tarjeta Crédito,2026-07-21,Activo,102
+304,44.0,Cali,Regular,12,1831100.0,1.19,Deportes,Transferencia,2026-08-26,Activo,66
+305,48.0,Medellín,Básico,2,574600.0,0.2,Deportes,Tarjeta Crédito,2025-10-14,Inactivo,382
+306,46.0,Barranquilla,Regular,14,2255200.0,1.19,Ropa,Tarjeta Débito,2026-07-07,Activo,116
+307,40.0,Cartagena,Premium,15,2623000.0,1.27,Hogar,Tarjeta Crédito,2026-07-22,Activo,101
+308,45.0,Bucaramanga,Regular,15,1309600.0,1.33,Electrónica,Tarjeta Débito,2026-09-07,Activo,54
+309,23.0,Medellín,Regular,29,1771600.0,2.29,Deportes,Transferencia,2026-10-01,Activo,30
+310,38.0,Medellín,Regular,32,1653900.0,2.68,Belleza,Efectivo,2026-10-25,Activo,6
+311,46.0,Barranquilla,Regular,13,4678000.0,1.26,Electrónica,Tarjeta Crédito,2026-07-06,Activo,117
+312,40.0,Bucaramanga,Premium,16,3302700.0,1.4,Electrónica,Tarjeta Débito,2026-07-05,Activo,118
+313,30.0,Cartagena,Regular,22,1778900.0,2.11,Hogar,Efectivo,2026-09-23,Activo,38
+314,48.0,Medellín,Regular,13,1711500.0,1.27,Deportes,Tarjeta Crédito,2026-07-28,Activo,95
+315,38.0,Barranquilla,Regular,14,1278900.0,1.29,Hogar,Efectivo,2026-08-06,Activo,86
+316,30.0,Bogotá,Premium,35,2603100.0,2.73,Electrónica,Tarjeta Crédito,2026-10-24,Activo,7
+317,59.0,Bogotá,Regular,9,1201400.0,0.7,Ropa,Tarjeta Crédito,2026-10-03,Activo,28
+318,46.0,Bogotá,Premium,16,3820000.0,1.19,Ropa,Transferencia,2026-08-27,Activo,65
+319,33.0,Bogotá,Regular,19,1129200.0,1.46,Ropa,Tarjeta Débito,2026-10-28,Activo,3
+320,50.0,Cali,Regular,4,1093600.0,0.33,Alimentos,Tarjeta Crédito,2026-05-27,Activo,157
+321,22.0,Medellín,Regular,7,1246700.0,0.62,Hogar,Tarjeta Crédito,2026-04-06,Inactivo,208
+322,45.0,Barranquilla,Regular,9,1498000.0,0.9,Electrónica,Tarjeta Débito,2026-08-19,Activo,73
+323,31.0,Cali,Regular,34,2323100.0,2.7,Electrónica,Tarjeta Crédito,2026-10-12,Activo,19
+324,27.0,Bogotá,Regular,13,2250800.0,1.16,Deportes,Tarjeta Crédito,2026-08-10,Activo,82
+325,51.0,Barranquilla,Regular,7,1684800.0,0.64,Alimentos,Efectivo,2026-01-25,Inactivo,279
+326,55.0,Bogotá,Regular,13,2276800.0,0.94,Hogar,Tarjeta Débito,2026-07-27,Activo,96
+327,59.0,Bogotá,Básico,3,713600.0,0.28,Belleza,Tarjeta Crédito,2025-11-03,Inactivo,362
+328,45.0,Cartagena,Premium,18,3022000.0,1.78,Alimentos,Efectivo,2026-09-07,Activo,54
+329,38.0,Bogotá,Regular,10,1495100.0,0.72,Deportes,Efectivo,2026-09-12,Activo,49
+330,27.0,Medellín,Regular,27,1802700.0,2.41,Deportes,Tarjeta Débito,2026-09-26,Activo,35
+331,46.0,Cali,Regular,13,1920100.0,1.12,Hogar,Transferencia,2026-09-19,Activo,42
+332,40.0,Medellín,Regular,30,1927800.0,2.91,Alimentos,Tarjeta Crédito,2026-10-11,Activo,20
+333,46.0,Medellín,Regular,14,1312100.0,1.21,Alimentos,Tarjeta Crédito,2026-07-12,Activo,111
+334,50.0,Barranquilla,Básico,1,298500.0,0.07,Ropa,Tarjeta Crédito,2026-07-15,Activo,108
+335,33.0,Cali,Regular,33,1809500.0,2.58,Alimentos,Tarjeta Crédito,2026-10-22,Activo,9
+336,46.0,Cali,Regular,10,1111000.0,0.84,Ropa,Tarjeta Débito,2026-09-27,Activo,34
+337,28.0,Bucaramanga,Regular,25,1608000.0,2.23,Electrónica,Tarjeta Crédito,2026-10-29,Activo,2
+338,47.0,Bogotá,Regular,15,2109700.0,1.31,Electrónica,Tarjeta Débito,2026-07-28,Activo,95
+339,37.0,Medellín,Regular,39,2466600.0,3.13,Ropa,Transferencia,2026-10-12,Activo,19
+340,52.0,Bogotá,Básico,1,251900.0,0.09,Belleza,Efectivo,2026-01-16,Inactivo,288
+341,42.0,Bogotá,Regular,24,1630600.0,2.26,Hogar,Efectivo,2026-09-28,Activo,33
+342,54.0,Cartagena,Básico,3,763700.0,0.23,Alimentos,Efectivo,2026-06-06,Activo,147
+343,41.0,Barranquilla,Básico,2,474200.0,0.15,Electrónica,Efectivo,2026-06-27,Activo,126
+344,35.0,Bogotá,Regular,12,2042000.0,0.88,Alimentos,Tarjeta Débito,2026-10-12,Activo,19
+345,57.0,Medellín,Regular,4,1130900.0,0.3,Hogar,Tarjeta Débito,2025-12-09,Inactivo,326
+346,38.0,Bogotá,Regular,3,906900.0,0.25,Ropa,Tarjeta Crédito,2026-04-30,Inactivo,184
+347,57.0,Bogotá,Básico,1,289500.0,0.08,Deportes,Tarjeta Crédito,2026-06-09,Activo,144
+348,34.0,Medellín,Regular,28,1588500.0,2.04,Ropa,Tarjeta Débito,2026-10-17,Activo,14
+349,38.0,Cartagena,Regular,13,2365400.0,1.29,Belleza,Tarjeta Débito,2026-07-17,Activo,106
+350,35.0,Bogotá,Regular,24,1515100.0,2.06,Electrónica,Tarjeta Crédito,2026-09-24,Activo,37
+351,41.0,Medellín,Premium,17,3359000.0,1.57,Electrónica,Tarjeta Crédito,2026-09-07,Activo,54
+352,30.0,Cartagena,Regular,24,1387600.0,1.72,Hogar,Efectivo,2026-10-17,Activo,14
+353,33.0,Bucaramanga,Regular,10,886200.0,0.73,Hogar,Tarjeta Crédito,2026-10-06,Activo,25
+354,41.0,Bogotá,Regular,9,1027700.0,0.68,Ropa,Tarjeta Débito,2026-07-19,Activo,104
+355,57.0,Medellín,Regular,9,861800.0,0.8,Belleza,Tarjeta Crédito,2026-10-11,Activo,20
+356,36.0,Bucaramanga,Regular,13,2196500.0,0.94,Hogar,Tarjeta Crédito,2026-10-09,Activo,22
+357,52.0,Barranquilla,Básico,3,634900.0,0.3,Ropa,Efectivo,2026-06-21,Activo,132
+358,45.0,Cali,Básico,1,287900.0,0.09,Electrónica,Tarjeta Crédito,2026-03-22,Inactivo,223
+359,39.0,Barranquilla,Regular,13,1865500.0,1.04,Deportes,Tarjeta Crédito,2026-08-12,Activo,80
+360,42.0,Cartagena,Regular,8,1291800.0,0.61,Alimentos,Transferencia,2026-09-08,Activo,53
+361,62.0,Cali,Básico,1,249300.0,0.07,Electrónica,Tarjeta Débito,2025-11-18,Inactivo,347
+362,38.0,Bogotá,Regular,36,1404900.0,3.21,Ropa,Tarjeta Débito,2026-10-03,Activo,28
+363,30.0,Medellín,Regular,21,1589300.0,1.82,Hogar,Tarjeta Débito,2026-10-04,Activo,27
+364,42.0,Barranquilla,Regular,32,1892500.0,2.71,Ropa,Tarjeta Crédito,2026-09-30,Activo,31
+365,38.0,Medellín,Regular,10,1498000.0,0.99,Hogar,Tarjeta Débito,2026-10-03,Activo,28
+366,32.0,Medellín,Regular,11,1388800.0,0.82,Deportes,Tarjeta Débito,2026-10-06,Activo,25
+367,58.0,Barranquilla,Básico,1,357500.0,0.09,Electrónica,Tarjeta Crédito,2026-03-11,Inactivo,234
+368,41.0,Medellín,Regular,10,1785800.0,0.93,Alimentos,Tarjeta Crédito,2026-09-23,Activo,38
+369,26.0,Cartagena,Regular,24,1174400.0,2.06,Deportes,Tarjeta Débito,2026-10-04,Activo,27
+370,59.0,Medellín,Básico,2,530000.0,0.16,Electrónica,Tarjeta Crédito,2025-10-18,Inactivo,378
+371,46.0,Barranquilla,Regular,4,1079600.0,0.3,Belleza,Tarjeta Crédito,2025-11-05,Inactivo,360
+372,32.0,Cali,Básico,24,1498000.0,2.21,Deportes,Tarjeta Débito,2026-10-14,Activo,17
+373,41.0,Bogotá,Regular,19,2302100.0,1.78,Hogar,Tarjeta Débito,2026-10-11,Activo,20
+374,32.0,Medellín,Regular,25,1408400.0,1.81,Ropa,Tarjeta Débito,2026-10-28,Activo,3
+375,31.0,Bogotá,Regular,19,931400.0,1.56,Deportes,Tarjeta Crédito,2026-10-05,Activo,26
+376,39.0,Barranquilla,Regular,23,990700.0,2.01,Alimentos,Efectivo,2026-10-22,Activo,9
+377,49.0,Barranquilla,Básico,2,359500.0,0.19,Deportes,Transferencia,2026-03-22,Inactivo,223
+378,31.0,Bogotá,Premium,16,3466600.0,1.14,Belleza,Tarjeta Débito,2026-07-28,Activo,95
+379,46.0,Medellín,Básico,8,790900.0,0.62,Ropa,Transferencia,2026-08-03,Activo,89
+380,43.0,Bogotá,Regular,12,1858100.0,1.1,Electrónica,Tarjeta Débito,2026-08-02,Activo,90
+381,31.0,Bogotá,Regular,8,1241800.0,0.77,Ropa,Tarjeta Crédito,2026-10-02,Activo,29
+382,48.0,Cartagena,Regular,4,1026000.0,0.37,Alimentos,Tarjeta Débito,2026-07-09,Activo,114
+383,51.0,Bogotá,Regular,3,957100.0,0.27,Deportes,Tarjeta Débito,2026-04-04,Inactivo,210
+384,46.0,Bogotá,Regular,13,2250100.0,1.24,Hogar,Transferencia,2026-10-04,Activo,27
+385,39.0,Cali,Regular,11,1681800.0,1.01,Belleza,Tarjeta Crédito,2026-10-09,Activo,22
+386,40.0,Bogotá,Básico,2,430700.0,0.19,Electrónica,Tarjeta Crédito,2026-05-17,Activo,167
+387,39.0,Bucaramanga,Regular,11,931400.0,0.96,Alimentos,Transferencia,2026-07-28,Activo,95
+388,57.0,Barranquilla,Básico,2,659100.0,0.17,Ropa,Tarjeta Crédito,2025-12-15,Inactivo,320
+389,28.0,Barranquilla,Regular,27,946600.0,2.28,Deportes,Tarjeta Débito,2026-09-22,Activo,39
+390,38.0,Barranquilla,Regular,7,1967900.0,0.53,Hogar,Tarjeta Crédito,2025-10-17,Inactivo,379
+391,46.0,Barranquilla,Regular,5,831100.0,0.45,Belleza,Transferencia,2026-08-06,Activo,86
+392,22.0,Barranquilla,Regular,36,1591600.0,2.66,Electrónica,Tarjeta Crédito,2026-10-16,Activo,15
+393,27.0,Barranquilla,Regular,13,1202500.0,0.95,Deportes,Efectivo,2026-09-11,Activo,50
+394,35.0,Bucaramanga,Regular,10,1738700.0,0.72,Ropa,Tarjeta Débito,2026-10-11,Activo,20
+395,34.0,Cali,Regular,28,1168900.0,2.61,Alimentos,Transferencia,2026-10-12,Activo,19
+396,37.0,Medellín,Regular,17,2214100.0,1.55,Hogar,Transferencia,2026-08-16,Activo,76
+397,38.0,Medellín,Básico,1,239000.0,0.08,Ropa,Efectivo,2026-07-05,Activo,118
+398,41.0,Medellín,Regular,34,1054500.0,3.22,Ropa,Tarjeta Crédito,2026-10-06,Activo,25
+399,34.0,Medellín,Básico,5,421100.0,0.48,Hogar,Tarjeta Débito,2026-07-11,Activo,112
+400,39.0,Medellín,Regular,10,1614400.0,0.97,Electrónica,Transferencia,2026-07-11,Activo,112
+401,38.0,Medellín,Regular,20,1114500.0,1.61,Ropa,Tarjeta Débito,2026-10-27,Activo,4
+402,60.0,Bogotá,Regular,5,1392700.0,0.38,Ropa,Transferencia,2026-06-27,Activo,126
+403,46.0,Bucaramanga,Básico,1,216800.0,0.09,Deportes,Efectivo,2026-05-09,Activo,175
+404,28.0,Barranquilla,Regular,18,1160900.0,1.31,Ropa,Tarjeta Crédito,2026-10-30,Activo,1
+405,35.0,Medellín,Regular,4,927400.0,0.3,Alimentos,Tarjeta Crédito,2025-10-22,Inactivo,374
+406,43.0,Cartagena,Básico,2,501400.0,0.19,Ropa,Tarjeta Crédito,2025-11-23,Inactivo,342
+407,33.0,Cartagena,Regular,36,1471100.0,3.1,Ropa,Efectivo,2026-10-03,Activo,28
+408,68.0,Bucaramanga,Regular,4,1431000.0,0.39,Deportes,Tarjeta Débito,2025-12-25,Inactivo,310
+409,38.0,Bogotá,Regular,32,2122600.0,2.34,Deportes,Tarjeta Crédito,2026-10-07,Activo,24
+410,47.0,Medellín,Básico,2,1498000.0,0.15,Belleza,Efectivo,2025-12-06,Inactivo,329
+411,29.0,Medellín,Regular,14,1959600.0,1.1,Ropa,Tarjeta Crédito,2026-07-28,Activo,95
+412,35.0,Barranquilla,Premium,17,2568700.0,1.34,Electrónica,Tarjeta Débito,2026-10-13,Activo,18
+413,28.0,Cali,Regular,39,2212700.0,3.5,Alimentos,Tarjeta Débito,2026-10-15,Activo,16
+414,68.0,Barranquilla,Regular,3,1024600.0,0.22,Ropa,Tarjeta Débito,2026-05-03,Inactivo,181
+415,31.0,Barranquilla,Regular,27,1445100.0,1.97,Electrónica,Tarjeta Crédito,2026-10-16,Activo,15
+416,30.0,Cartagena,Regular,36,2206100.0,2.78,Belleza,Efectivo,2026-10-27,Activo,4
+417,37.0,Cali,Regular,31,1159100.0,2.61,Alimentos,Transferencia,2026-09-25,Activo,36
+418,61.0,Cartagena,Básico,3,778600.0,0.29,Alimentos,Efectivo,2026-06-07,Activo,146
+419,42.0,Bucaramanga,Regular,20,1213100.0,1.98,Alimentos,Transferencia,2026-10-12,Activo,19
+420,48.0,Medellín,Regular,3,933300.0,0.28,Belleza,Tarjeta Crédito,2025-12-14,Inactivo,321
+421,32.0,Bucaramanga,Regular,11,1576600.0,0.89,Deportes,Tarjeta Crédito,2026-10-07,Activo,24
+422,41.0,Bogotá,Regular,25,1394700.0,1.9,Deportes,Tarjeta Crédito,2026-10-21,Activo,10
+423,25.0,Bogotá,Regular,26,2062400.0,1.88,Deportes,Efectivo,2026-09-24,Activo,37
+424,31.0,Cartagena,Regular,26,1465700.0,2.43,Deportes,Tarjeta Crédito,2026-10-23,Activo,8
+425,36.0,Medellín,Regular,7,1129100.0,0.63,Deportes,Transferencia,2026-09-06,Activo,55
+426,65.0,Medellín,Regular,3,829800.0,0.29,Electrónica,Tarjeta Débito,2025-11-03,Inactivo,362
+427,20.0,Cartagena,Regular,28,1288300.0,2.01,Ropa,Transferencia,2026-10-27,Activo,4
+428,72.0,Medellín,Regular,5,1498000.0,0.38,Hogar,Tarjeta Débito,2026-06-15,Activo,138
+429,26.0,Bogotá,Regular,36,1820200.0,3.02,Belleza,Efectivo,2026-09-26,Activo,35
+430,36.0,Bogotá,Básico,1,205400.0,0.08,Alimentos,Tarjeta Débito,2026-05-27,Activo,157
+431,44.0,Cali,Básico,1,212800.0,0.08,Alimentos,Tarjeta Débito,2026-01-17,Inactivo,287
+432,63.0,Bogotá,Regular,7,2030600.0,0.64,Alimentos,Efectivo,2026-03-28,Inactivo,217
+433,38.0,Bogotá,Regular,11,1393800.0,1.02,Deportes,Tarjeta Crédito,2026-10-04,Activo,27
+434,33.0,Bucaramanga,Básico,3,562000.0,0.27,Deportes,Transferencia,2026-06-27,Activo,126
+435,33.0,Medellín,Regular,35,2074700.0,3.19,Hogar,Efectivo,2026-10-18,Activo,13
+436,40.0,Cali,Regular,29,1510100.0,2.37,Belleza,Efectivo,2026-10-12,Activo,19
+437,29.0,Bogotá,Regular,35,1542600.0,3.12,Deportes,Tarjeta Crédito,2026-10-04,Activo,27
+438,40.0,Cali,Regular,7,1049400.0,0.54,Hogar,Tarjeta Crédito,2026-09-25,Activo,36
+439,28.0,Cali,Regular,12,1327700.0,0.98,Alimentos,Tarjeta Crédito,2026-07-11,Activo,112
+440,36.0,Medellín,Regular,9,1685700.0,0.74,Ropa,Tarjeta Débito,2026-08-16,Activo,76
+441,47.0,Bogotá,Regular,6,1774300.0,0.43,Ropa,Tarjeta Crédito,2025-10-12,Inactivo,384
+442,36.0,Medellín,Regular,30,1744600.0,2.66,Belleza,Transferencia,2026-10-15,Activo,16
+443,37.0,Bogotá,Premium,14,2671100.0,1.12,Hogar,Transferencia,2026-08-21,Activo,71
+444,31.0,Bogotá,Regular,32,1853100.0,3.2,Belleza,Tarjeta Crédito,2026-09-26,Activo,35
+445,32.0,Medellín,Regular,27,1498000.0,2.09,Alimentos,Efectivo,2026-10-10,Activo,21
+446,36.0,Bogotá,Premium,18,3623300.0,1.5,Deportes,Tarjeta Crédito,2026-10-07,Activo,24
+447,57.0,Bogotá,Básico,3,542200.0,0.28,Deportes,Tarjeta Crédito,2026-01-15,Inactivo,289
+448,32.0,Bogotá,Regular,13,1498000.0,1.3,Alimentos,Tarjeta Crédito,2026-07-04,Activo,119
+449,38.0,Bucaramanga,Regular,26,1947100.0,2.03,Hogar,Transferencia,2026-09-22,Activo,39
+450,42.0,Medellín,Premium,20,2651000.0,1.58,Belleza,Transferencia,2026-10-11,Activo,20
+451,36.0,Cali,Regular,22,1013700.0,1.74,Alimentos,Tarjeta Crédito,2026-10-02,Activo,29
+452,50.0,Cali,Regular,4,1154200.0,0.34,Ropa,Tarjeta Crédito,2025-12-22,Inactivo,313
+453,42.0,Medellín,Regular,10,977800.0,0.8,Hogar,Tarjeta Débito,2026-09-01,Activo,60
+454,21.0,Bogotá,Regular,26,1875700.0,2.12,Electrónica,Tarjeta Débito,2026-10-19,Activo,12
+455,18.0,Medellín,Regular,23,1430200.0,2.1,Hogar,Tarjeta Crédito,2026-09-23,Activo,38
+456,38.0,Cali,Regular,29,1780400.0,2.4,Electrónica,Transferencia,2026-09-30,Activo,31
+457,68.0,Medellín,Básico,1,331400.0,0.08,Belleza,Transferencia,2025-11-22,Inactivo,343
+458,52.0,Bogotá,Regular,12,2338500.0,0.9,Ropa,Tarjeta Débito,2026-09-23,Activo,38
+459,54.0,Cartagena,Regular,5,1382600.0,0.43,Alimentos,Transferencia,2026-06-04,Activo,149
+460,40.0,Barranquilla,Regular,8,1205500.0,0.68,Deportes,Efectivo,2026-08-17,Activo,75
+461,36.0,Bogotá,Regular,11,2028800.0,0.79,Belleza,Tarjeta Crédito,2026-10-19,Activo,12
+462,36.0,Cartagena,Regular,22,1244200.0,1.62,Ropa,Transferencia,2026-10-19,Activo,12
+463,60.0,Bogotá,Regular,5,1384500.0,0.46,Electrónica,Tarjeta Débito,2025-12-02,Inactivo,333
+464,25.0,Bogotá,Regular,32,1715900.0,2.35,Alimentos,Tarjeta Débito,2026-10-12,Activo,19
+465,35.0,Bogotá,Regular,6,1498000.0,0.57,Belleza,Tarjeta Crédito,2026-10-04,Activo,27
+466,41.0,Cartagena,Premium,16,2522900.0,1.19,Ropa,Efectivo,2026-08-19,Activo,73
+467,41.0,Bogotá,Regular,8,1204400.0,0.75,Electrónica,Tarjeta Crédito,2026-09-03,Activo,58
+468,32.0,Barranquilla,Básico,2,571300.0,0.17,Deportes,Tarjeta Crédito,2026-06-02,Activo,151
+469,34.0,Cali,Regular,34,1594300.0,2.44,Alimentos,Tarjeta Débito,2026-10-21,Activo,10
+470,33.0,Cali,Regular,10,1846500.0,0.96,Electrónica,Tarjeta Débito,2026-07-12,Activo,111
+471,29.0,Medellín,Regular,14,2047100.0,1.05,Electrónica,Tarjeta Crédito,2026-07-23,Activo,100
+472,40.0,Bogotá,Regular,16,1689400.0,1.34,Alimentos,Tarjeta Crédito,2026-10-03,Activo,28
+473,29.0,Barranquilla,Regular,26,1532100.0,2.49,Electrónica,Transferencia,2026-10-09,Activo,22
+474,24.0,Medellín,Regular,27,1397700.0,1.96,Hogar,Tarjeta Débito,2026-10-22,Activo,9
+475,38.0,Cali,Regular,25,1630900.0,2.05,Hogar,Tarjeta Débito,2026-10-01,Activo,30
+476,22.0,Bogotá,Regular,26,1498000.0,1.92,Ropa,Transferencia,2026-10-30,Activo,1
+477,31.0,Barranquilla,Regular,14,1670700.0,1.04,Deportes,Transferencia,2026-08-25,Activo,67
+478,46.0,Barranquilla,Premium,14,2717800.0,1.39,Ropa,Tarjeta Crédito,2026-07-13,Activo,110
+479,44.0,Cali,Regular,13,2375200.0,1.18,Belleza,Tarjeta Débito,2026-10-11,Activo,20
+480,41.0,Medellín,Regular,10,1975800.0,0.88,Alimentos,Tarjeta Crédito,2026-10-03,Activo,28
+481,38.0,Medellín,Regular,13,2042400.0,1.07,Ropa,Tarjeta Débito,2026-07-14,Activo,109
+482,24.0,Medellín,Regular,29,1367000.0,2.82,Alimentos,Efectivo,2026-10-07,Activo,24
+483,36.0,Bogotá,Regular,11,1882200.0,0.95,Electrónica,Tarjeta Crédito,2026-08-22,Activo,70
+484,27.0,Bogotá,Regular,24,1336100.0,1.81,Belleza,Tarjeta Débito,2026-10-12,Activo,19
+485,29.0,Bogotá,Regular,21,975000.0,1.96,Hogar,Tarjeta Crédito,2026-09-23,Activo,38
+486,45.0,Bogotá,Regular,9,1498000.0,0.7,Belleza,Tarjeta Débito,2026-09-14,Activo,47
+487,43.0,Bogotá,Regular,9,955500.0,0.76,Alimentos,Tarjeta Crédito,2026-07-31,Activo,92
+488,33.0,Bogotá,Regular,29,1640800.0,2.82,Hogar,Transferencia,2026-10-06,Activo,25
+489,35.0,Cali,Regular,15,2051600.0,1.4,Ropa,Tarjeta Débito,2026-08-05,Activo,87
+490,35.0,Barranquilla,Regular,9,1284500.0,0.85,Electrónica,Tarjeta Crédito,2026-08-25,Activo,67
+491,48.0,Medellín,Regular,6,965500.0,0.48,Alimentos,Efectivo,2026-10-14,Activo,17
+492,41.0,Medellín,Regular,13,2446300.0,1.26,Electrónica,Tarjeta Crédito,2026-09-22,Activo,39
+493,38.0,Cali,Regular,11,1369900.0,0.83,Alimentos,Tarjeta Débito,2026-08-21,Activo,71
+494,32.0,Cali,Regular,32,4678000.0,2.42,Hogar,Tarjeta Débito,2026-10-11,Activo,20
+495,55.0,Bucaramanga,Regular,5,1335300.0,0.48,Electrónica,Tarjeta Crédito,2026-06-18,Activo,135
+496,38.0,Bucaramanga,Regular,14,1751300.0,1.03,Hogar,Tarjeta Crédito,2026-08-06,Activo,86
+497,35.0,Bucaramanga,Regular,11,1453800.0,0.79,Electrónica,Tarjeta Crédito,2026-09-01,Activo,60
+498,51.0,Bucaramanga,Regular,12,1729300.0,1.18,Belleza,Efectivo,2026-07-27,Activo,96
+499,42.0,Bucaramanga,Regular,10,1675800.0,0.72,Belleza,Efectivo,2026-08-22,Activo,70
+500,40.0,Cali,Regular,9,1436500.0,0.81,Belleza,Tarjeta Crédito,2026-09-11,Activo,50
+501,45.0,Cali,Regular,9,1064600.0,0.71,Deportes,Tarjeta Crédito,2026-10-10,Activo,21
+502,49.0,Barranquilla,Regular,3,816700.0,0.28,Hogar,Transferencia,2025-11-22,Inactivo,343
+503,55.0,Bogotá,Regular,4,1105500.0,0.3,Deportes,Tarjeta Crédito,2025-10-12,Inactivo,384
+504,47.0,Medellín,Regular,8,983700.0,0.6,Deportes,Tarjeta Crédito,2026-09-13,Activo,48
+505,44.0,Cartagena,Regular,11,2054000.0,0.79,Hogar,Efectivo,2026-08-03,Activo,89
+506,43.0,Cali,Básico,2,636500.0,0.14,Belleza,Tarjeta Crédito,2026-07-15,Activo,108
+507,27.0,Bogotá,Premium,30,2631600.0,2.91,Belleza,Transferencia,2026-10-04,Activo,27
+508,55.0,Medellín,Básico,3,596700.0,0.24,Ropa,Tarjeta Crédito,2025-11-28,Inactivo,337
+509,30.0,Bogotá,Regular,10,1492300.0,0.9,Alimentos,Transferencia,2026-08-20,Activo,72
+510,32.0,Medellín,Regular,24,1871500.0,2.29,Belleza,Tarjeta Débito,2026-10-04,Activo,27
+511,31.0,Cali,Regular,35,2093300.0,3.3,Hogar,Tarjeta Crédito,2026-10-24,Activo,7
+512,49.0,Cali,Regular,5,1745500.0,0.36,Belleza,Tarjeta Débito,2026-03-06,Inactivo,239
+513,25.0,Bogotá,Básico,23,787900.0,1.81,Hogar,Transferencia,2026-10-01,Activo,30
+514,27.0,Bogotá,Regular,34,1674800.0,3.33,Belleza,Tarjeta Débito,2026-10-03,Activo,28
+515,41.0,Medellín,Regular,29,2134500.0,2.08,Hogar,Tarjeta Crédito,2026-10-28,Activo,3
+516,37.0,Bogotá,Regular,27,1644600.0,2.04,Deportes,Transferencia,2026-10-13,Activo,18
+517,36.0,Bogotá,Regular,32,2096300.0,2.85,Alimentos,Tarjeta Crédito,2026-09-25,Activo,36
+518,51.0,Cali,Premium,18,2512300.0,1.51,Ropa,Tarjeta Crédito,2026-09-23,Activo,38
+519,21.0,Bogotá,Regular,21,1950500.0,1.63,Ropa,Tarjeta Crédito,2026-09-29,Activo,32
+520,36.0,Cartagena,Básico,2,620600.0,0.16,Hogar,Transferencia,2026-01-06,Inactivo,298
+521,54.0,Cali,Básico,1,259000.0,0.08,Deportes,Tarjeta Crédito,2026-04-01,Inactivo,213
+522,41.0,Bogotá,Regular,7,1021000.0,0.58,Belleza,Tarjeta Crédito,2026-08-23,Activo,69
+523,28.0,Medellín,Premium,33,2818600.0,3.24,Alimentos,Transferencia,2026-10-04,Activo,27
+524,48.0,Bogotá,Regular,12,1543200.0,1.0,Hogar,Tarjeta Débito,2026-07-29,Activo,94
+525,35.0,Bogotá,Premium,41,2573600.0,3.61,Deportes,Tarjeta Crédito,2026-10-06,Activo,25
+526,38.0,Cartagena,Regular,19,2144700.0,1.71,Ropa,Tarjeta Débito,2026-07-28,Activo,95
+527,60.0,Barranquilla,Regular,7,1706000.0,0.63,Belleza,Tarjeta Crédito,2025-11-02,Inactivo,363
+528,51.0,Barranquilla,Regular,5,1338600.0,0.4,Hogar,Tarjeta Débito,2025-11-19,Inactivo,346
+529,44.0,Cali,Básico,2,464100.0,0.17,Alimentos,Tarjeta Crédito,2026-03-03,Inactivo,242
+530,26.0,Cartagena,Regular,28,2192600.0,2.39,Ropa,Tarjeta Débito,2026-10-15,Activo,16
+531,30.0,Bucaramanga,Premium,17,2582000.0,1.6,Belleza,Efectivo,2026-10-19,Activo,12
+532,29.0,Bogotá,Regular,11,1237200.0,0.79,Electrónica,Tarjeta Crédito,2026-07-15,Activo,108
+533,51.0,Bogotá,Regular,10,827000.0,0.92,Alimentos,Tarjeta Crédito,2026-07-22,Activo,101
+534,35.0,Medellín,Regular,9,1473600.0,0.77,Deportes,Tarjeta Débito,2026-07-09,Activo,114
+535,28.0,Medellín,Regular,22,1258700.0,2.04,Ropa,Efectivo,2026-09-23,Activo,38
+536,37.0,Cali,Regular,26,1186100.0,2.03,Alimentos,Efectivo,2026-10-08,Activo,23
+537,38.0,Bogotá,Regular,8,1574000.0,0.68,Hogar,Efectivo,2026-07-24,Activo,99
+538,37.0,Barranquilla,Regular,34,1855000.0,2.92,Ropa,Transferencia,2026-10-16,Activo,15
+539,31.0,Bogotá,Regular,30,2441700.0,2.22,Belleza,Transferencia,2026-10-27,Activo,4
+540,41.0,Barranquilla,Regular,4,1212200.0,0.31,Ropa,Transferencia,2026-03-11,Inactivo,234
+541,56.0,Medellín,Regular,3,809200.0,0.25,Hogar,Tarjeta Débito,2026-03-28,Inactivo,217
+542,37.0,Bogotá,Regular,7,954200.0,0.59,Alimentos,Tarjeta Crédito,2026-08-11,Activo,81
+543,40.0,Bucaramanga,Básico,3,717400.0,0.22,Ropa,Tarjeta Débito,2026-07-11,Activo,112
+544,50.0,Medellín,Regular,5,1405200.0,0.36,Deportes,Tarjeta Crédito,2026-07-08,Activo,115
+545,29.0,Barranquilla,Regular,28,2489900.0,2.18,Electrónica,Tarjeta Crédito,2026-10-30,Activo,1
+546,47.0,Bucaramanga,Regular,11,1826500.0,0.84,Belleza,Tarjeta Crédito,2026-07-21,Activo,102
+547,36.0,Bogotá,Regular,11,1479900.0,0.81,Deportes,Tarjeta Débito,2026-09-23,Activo,38
+548,31.0,Bogotá,Regular,29,2041600.0,2.09,Belleza,Efectivo,2026-10-13,Activo,18
+549,51.0,Bogotá,Regular,4,1116100.0,0.39,Ropa,Tarjeta Débito,2025-09-29,Inactivo,397
+550,49.0,Bogotá,Regular,10,1474300.0,0.71,Ropa,Tarjeta Crédito,2026-08-18,Activo,74
+551,56.0,Cartagena,Premium,12,2745500.0,0.94,Ropa,Transferencia,2026-10-18,Activo,13
+552,28.0,Bucaramanga,Regular,32,2286400.0,2.59,Belleza,Tarjeta Débito,2026-09-30,Activo,31
+553,29.0,Medellín,Regular,30,1191500.0,2.57,Electrónica,Tarjeta Crédito,2026-10-15,Activo,16
+554,55.0,Barranquilla,Regular,6,2217700.0,0.53,Alimentos,Tarjeta Crédito,2026-03-24,Inactivo,221
+555,32.0,Cartagena,Regular,32,1831600.0,2.42,Hogar,Tarjeta Crédito,2026-10-15,Activo,16
+556,38.0,Bogotá,Regular,29,1569700.0,2.3,Alimentos,Transferencia,2026-09-29,Activo,32
+557,27.0,Bogotá,Regular,31,2462600.0,2.87,Belleza,Tarjeta Crédito,2026-10-06,Activo,25
+558,39.0,Bucaramanga,Regular,10,1543400.0,0.8,Deportes,Transferencia,2026-09-16,Activo,45
+559,37.0,Barranquilla,Regular,10,1601400.0,0.95,Electrónica,Tarjeta Crédito,2026-07-08,Activo,115
+560,38.0,Bogotá,Regular,10,1009200.0,0.83,Ropa,Efectivo,2026-09-01,Activo,60
+561,31.0,Medellín,Regular,30,1160800.0,2.43,Electrónica,Tarjeta Crédito,2026-10-17,Activo,14
+562,29.0,Bogotá,Básico,25,777000.0,1.99,Ropa,Tarjeta Débito,2026-10-05,Activo,26
+563,30.0,Cali,Básico,1,287600.0,0.09,Hogar,Tarjeta Débito,2026-01-28,Inactivo,276
+564,45.0,Cali,Premium,18,2894900.0,1.73,Deportes,Tarjeta Crédito,2026-09-15,Activo,46
+565,44.0,Bogotá,Regular,14,1928100.0,1.27,Alimentos,Transferencia,2026-10-02,Activo,29
+566,32.0,Barranquilla,Regular,8,1057900.0,0.64,Hogar,Efectivo,2026-09-10,Activo,51
+567,50.0,Medellín,Básico,3,509600.0,0.22,Belleza,Tarjeta Crédito,2026-07-26,Activo,97
+568,30.0,Barranquilla,Regular,35,1477500.0,2.67,Deportes,Efectivo,2026-10-08,Activo,23
+569,40.0,Cali,Premium,14,3015800.0,1.08,Alimentos,Tarjeta Crédito,2026-09-12,Activo,49
+570,32.0,Medellín,Regular,10,1773600.0,0.88,Ropa,Transferencia,2026-10-17,Activo,14
+571,31.0,Bogotá,Regular,23,1485900.0,2.2,Hogar,Tarjeta Débito,2026-10-06,Activo,25
+572,32.0,Bogotá,Regular,5,1071300.0,0.37,Alimentos,Tarjeta Crédito,2026-02-17,Inactivo,256
+573,33.0,Barranquilla,Regular,11,1507200.0,0.92,Deportes,Tarjeta Crédito,2026-10-19,Activo,12
+574,60.0,Cali,Regular,4,951500.0,0.38,Belleza,Tarjeta Crédito,2025-11-05,Inactivo,360
+575,47.0,Bogotá,Básico,3,797400.0,0.25,Deportes,Transferencia,2026-01-09,Inactivo,295
+576,41.0,Cartagena,Regular,18,1636200.0,1.42,Electrónica,Tarjeta Crédito,2026-10-19,Activo,12
+577,18.0,Bucaramanga,Regular,3,824300.0,0.27,Belleza,Tarjeta Crédito,2026-07-22,Activo,101
+578,44.0,Bogotá,Regular,12,1593600.0,1.2,Hogar,Transferencia,2026-10-13,Activo,18
+579,53.0,Bogotá,Básico,4,744400.0,0.32,Electrónica,Tarjeta Crédito,2026-05-09,Activo,175
+580,36.0,Cali,Básico,31,730600.0,3.05,Alimentos,Tarjeta Crédito,2026-09-26,Activo,35
+581,26.0,Bogotá,Regular,11,1624500.0,0.94,Ropa,Efectivo,2026-07-19,Activo,104
+582,38.0,Cartagena,Regular,10,1462900.0,0.75,Electrónica,Tarjeta Crédito,2026-10-16,Activo,15
+583,27.0,Cali,Regular,32,2190700.0,2.29,Hogar,Transferencia,2026-09-29,Activo,32
+584,43.0,Bogotá,Regular,11,1749500.0,0.96,Hogar,Tarjeta Débito,2026-07-09,Activo,114
+585,44.0,Medellín,Regular,7,1634100.0,0.69,Ropa,Tarjeta Crédito,2025-11-09,Inactivo,356
+586,41.0,Bogotá,Regular,11,1698800.0,0.92,Deportes,Tarjeta Débito,2026-08-20,Activo,72
+587,29.0,Medellín,Regular,20,1423400.0,1.8,Deportes,Tarjeta Crédito,2026-10-16,Activo,15
+588,43.0,Bogotá,Regular,34,1323400.0,2.51,Electrónica,Tarjeta Débito,2026-10-27,Activo,4
+589,27.0,Bucaramanga,Regular,26,1197800.0,2.02,Hogar,Tarjeta Débito,2026-10-17,Activo,14
+590,37.0,Barranquilla,Regular,28,1904400.0,2.41,Alimentos,Efectivo,2026-10-29,Activo,2
+591,44.0,Cartagena,Regular,4,826000.0,0.31,Deportes,Tarjeta Débito,2025-12-11,Inactivo,324
+592,39.0,Bogotá,Regular,9,1223900.0,0.79,Electrónica,Efectivo,2026-10-09,Activo,22
+593,31.0,Medellín,Regular,30,2208000.0,2.48,Ropa,Tarjeta Crédito,2026-10-21,Activo,10
+594,43.0,Bucaramanga,Regular,15,2000000.0,1.1,Electrónica,Transferencia,2026-08-05,Activo,87
+595,18.0,Medellín,Regular,29,2054100.0,2.69,Ropa,Tarjeta Crédito,2026-10-03,Activo,28
+596,36.0,Medellín,Regular,27,1963700.0,2.4,Ropa,Transferencia,2026-09-23,Activo,38
+597,34.0,Cartagena,Regular,11,1348200.0,0.81,Hogar,Tarjeta Débito,2026-09-18,Activo,43
+598,23.0,Barranquilla,Premium,17,2862400.0,1.43,Belleza,Tarjeta Crédito,2026-10-07,Activo,24
+599,40.0,Bucaramanga,Básico,2,427300.0,0.18,Deportes,Tarjeta Débito,2026-01-13,Inactivo,291
+600,29.0,Medellín,Regular,10,1167800.0,0.99,Alimentos,Transferencia,2026-10-05,Activo,26
+601,34.0,Cali,Regular,11,1730400.0,0.94,Deportes,Transferencia,2026-10-15,Activo,16
+602,47.0,Medellín,Regular,3,927200.0,0.25,Hogar,Efectivo,2026-05-22,Activo,162
+603,35.0,Medellín,Básico,2,617100.0,0.17,Belleza,Tarjeta Débito,2026-05-12,Activo,172
+604,38.0,Bogotá,Regular,13,1720400.0,1.17,Ropa,Tarjeta Débito,2026-10-05,Activo,26
+605,65.0,Bucaramanga,Básico,3,665400.0,0.26,Ropa,Tarjeta Crédito,2025-10-07,Inactivo,389
+606,63.0,Medellín,Regular,3,1019600.0,0.24,Alimentos,Tarjeta Débito,2026-05-21,Activo,163
+607,54.0,Cali,Regular,3,1018700.0,0.22,Alimentos,Tarjeta Crédito,2025-12-12,Inactivo,323
+608,28.0,Bucaramanga,Regular,31,1005300.0,2.46,Alimentos,Transferencia,2026-10-18,Activo,13
+609,37.0,Barranquilla,Premium,17,2568900.0,1.35,Deportes,Efectivo,2026-07-21,Activo,102
+610,31.0,Bogotá,Regular,8,1011600.0,0.6,Hogar,Tarjeta Débito,2026-08-14,Activo,78
+611,36.0,Cali,Regular,11,2305500.0,1.03,Deportes,Efectivo,2026-08-23,Activo,69
+612,40.0,Medellín,Regular,6,852200.0,0.54,Hogar,Tarjeta Crédito,2026-09-28,Activo,33
+613,44.0,Bogotá,Básico,1,228600.0,0.1,Hogar,Tarjeta Crédito,2026-04-22,Inactivo,192
+614,42.0,Bogotá,Regular,6,1498000.0,0.53,Ropa,Tarjeta Crédito,2026-02-02,Inactivo,271
+615,31.0,Cali,Regular,22,1176700.0,1.57,Alimentos,Tarjeta Crédito,2026-10-21,Activo,10
+616,32.0,Barranquilla,Premium,16,2992800.0,1.41,Alimentos,Tarjeta Crédito,2026-10-10,Activo,21
+617,28.0,Cartagena,Premium,16,3198600.0,1.19,Electrónica,Efectivo,2026-07-30,Activo,93
+618,27.0,Medellín,Regular,29,2279300.0,2.8,Deportes,Efectivo,2026-10-27,Activo,4
+619,24.0,Medellín,Regular,24,1683700.0,2.03,Alimentos,Tarjeta Débito,2026-10-28,Activo,3
+620,28.0,Bogotá,Básico,22,784700.0,1.93,Alimentos,Transferencia,2026-10-02,Activo,29
+621,71.0,Cartagena,Básico,1,284200.0,0.09,Deportes,Transferencia,2026-06-04,Activo,149
+622,45.0,Bucaramanga,Regular,7,1030700.0,0.61,Deportes,Tarjeta Crédito,2026-08-15,Activo,77
+623,56.0,Cartagena,Básico,2,1498000.0,0.16,Ropa,Tarjeta Débito,2026-05-15,Activo,169
+624,35.0,Medellín,Premium,15,2671100.0,1.25,Ropa,Transferencia,2026-08-16,Activo,76
+625,44.0,Bogotá,Básico,2,595000.0,0.15,Hogar,Tarjeta Crédito,2026-07-13,Activo,110
+626,35.0,Cali,Premium,17,3348500.0,1.25,Alimentos,Tarjeta Débito,2026-08-07,Activo,85
+627,55.0,Medellín,Regular,3,819300.0,0.25,Hogar,Transferencia,2026-05-19,Activo,165
+628,32.0,Medellín,Premium,34,2643800.0,2.44,Alimentos,Efectivo,2026-10-20,Activo,11
+629,43.0,Bogotá,Regular,14,1066900.0,1.36,Ropa,Transferencia,2026-09-24,Activo,37
+630,56.0,Bogotá,Básico,2,368100.0,0.18,Hogar,Transferencia,2026-04-14,Inactivo,200
+631,27.0,Medellín,Básico,1,307900.0,0.09,Ropa,Tarjeta Crédito,2026-05-01,Inactivo,183
+632,39.0,Cartagena,Básico,1,294400.0,0.08,Belleza,Efectivo,2025-10-13,Inactivo,383
+633,33.0,Barranquilla,Básico,20,683200.0,1.64,Alimentos,Transferencia,2026-10-27,Activo,4
+634,38.0,Barranquilla,Regular,12,1328400.0,0.98,Ropa,Tarjeta Crédito,2026-09-07,Activo,54
+635,40.0,Bogotá,Regular,22,1798000.0,1.62,Ropa,Tarjeta Crédito,2026-09-28,Activo,33
+636,32.0,Barranquilla,Regular,36,2139200.0,3.24,Alimentos,Tarjeta Crédito,2026-10-12,Activo,19
+637,24.0,Medellín,Regular,9,1675300.0,0.68,Electrónica,Efectivo,2026-08-08,Activo,84
+638,32.0,Bogotá,Regular,9,1185800.0,0.74,Alimentos,Efectivo,2026-09-23,Activo,38
+639,64.0,Medellín,Básico,2,388300.0,0.17,Electrónica,Transferencia,2025-11-27,Inactivo,338
+640,49.0,Bogotá,Básico,1,244400.0,0.09,Belleza,Tarjeta Crédito,2026-07-23,Activo,100
+641,47.0,Bucaramanga,Regular,12,2125200.0,1.07,Alimentos,Tarjeta Débito,2026-07-10,Activo,113
+642,35.0,Bucaramanga,Básico,1,223600.0,0.09,Electrónica,Tarjeta Crédito,2026-07-10,Activo,113
+643,32.0,Bogotá,Regular,31,1939100.0,2.37,Ropa,Transferencia,2026-10-04,Activo,27
+644,40.0,Cali,Regular,38,1676100.0,3.19,Belleza,Tarjeta Débito,2026-10-28,Activo,3
+645,52.0,Medellín,Regular,15,2145700.0,1.41,Belleza,Efectivo,2026-09-22,Activo,39
+646,51.0,Bogotá,Básico,1,259400.0,0.08,Electrónica,Tarjeta Crédito,2026-06-21,Activo,132
+647,36.0,Cali,Regular,30,1697400.0,2.37,Hogar,Tarjeta Crédito,2026-10-18,Activo,13
+648,38.0,Barranquilla,Regular,11,1406600.0,0.8,Electrónica,Tarjeta Crédito,2026-08-13,Activo,79
+649,44.0,Barranquilla,Premium,15,2763400.0,1.24,Ropa,Transferencia,2026-10-03,Activo,28
+650,29.0,Bogotá,Regular,25,1820500.0,1.98,Belleza,Tarjeta Crédito,2026-09-30,Activo,31
+651,44.0,Cali,Regular,12,1468600.0,1.01,Deportes,Transferencia,2026-07-10,Activo,113
+652,47.0,Bogotá,Básico,1,339500.0,0.08,Hogar,Tarjeta Crédito,2025-10-10,Inactivo,386
+653,40.0,Bogotá,Regular,12,2494300.0,1.02,Hogar,Tarjeta Débito,2026-10-06,Activo,25
+654,26.0,Bogotá,Regular,27,1718000.0,2.56,Alimentos,Tarjeta Crédito,2026-10-02,Activo,29
+655,38.0,Bogotá,Básico,3,720700.0,0.22,Alimentos,Tarjeta Crédito,2025-10-21,Inactivo,375
+656,32.0,Bogotá,Regular,27,1390400.0,2.1,Ropa,Tarjeta Débito,2026-09-27,Activo,34
+657,29.0,Medellín,Básico,3,643500.0,0.24,Ropa,Tarjeta Débito,2026-07-25,Activo,98
+658,28.0,Barranquilla,Regular,23,893900.0,1.93,Belleza,Tarjeta Débito,2026-10-11,Activo,20
+659,38.0,Medellín,Regular,12,1866400.0,0.93,Alimentos,Tarjeta Débito,2026-09-23,Activo,38
+660,35.0,Bogotá,Regular,14,2026900.0,1.33,Deportes,Tarjeta Crédito,2026-10-12,Activo,19
+661,36.0,Cartagena,Regular,30,2108500.0,2.65,Belleza,Tarjeta Débito,2026-10-22,Activo,9
+662,56.0,Bucaramanga,Regular,7,1729200.0,0.67,Ropa,Efectivo,2026-07-16,Activo,107
+663,38.0,Bogotá,Regular,33,1498000.0,3.14,Deportes,Tarjeta Crédito,2026-10-31,Activo,0
+664,29.0,Medellín,Regular,27,1315600.0,2.68,Deportes,Tarjeta Débito,2026-10-02,Activo,29
+665,31.0,Bogotá,Regular,23,1434500.0,1.77,Hogar,Tarjeta Crédito,2026-09-28,Activo,33
+666,25.0,Cartagena,Regular,9,941500.0,0.82,Hogar,Tarjeta Crédito,2026-10-13,Activo,18
+667,46.0,Medellín,Regular,4,1039400.0,0.3,Electrónica,Tarjeta Crédito,2025-10-27,Inactivo,369
+668,49.0,Bogotá,Básico,3,777800.0,0.22,Alimentos,Tarjeta Débito,2026-05-24,Activo,160
+669,31.0,Barranquilla,Regular,33,1578300.0,3.09,Deportes,Tarjeta Crédito,2026-09-28,Activo,33
+670,33.0,Barranquilla,Regular,13,1743700.0,1.01,Deportes,Tarjeta Crédito,2026-08-23,Activo,69
+671,18.0,Bogotá,Premium,32,2872700.0,2.7,Ropa,Efectivo,2026-10-14,Activo,17
+672,41.0,Medellín,Regular,13,1566200.0,0.95,Deportes,Tarjeta Crédito,2026-09-06,Activo,55
+673,57.0,Bogotá,Básico,1,271600.0,0.08,Electrónica,Tarjeta Débito,2026-04-16,Inactivo,198
+674,43.0,Bogotá,Regular,14,1663300.0,1.22,Alimentos,Tarjeta Crédito,2026-09-08,Activo,53
+675,38.0,Bogotá,Básico,7,657300.0,0.63,Ropa,Tarjeta Crédito,2026-07-10,Activo,113
+676,51.0,Bucaramanga,Regular,13,1890700.0,0.95,Deportes,Transferencia,2026-10-18,Activo,13
+677,52.0,Barranquilla,Básico,2,504200.0,0.18,Belleza,Tarjeta Débito,2026-01-13,Inactivo,291
+678,46.0,Barranquilla,Regular,8,1197200.0,0.6,Alimentos,Tarjeta Crédito,2026-08-25,Activo,67
+679,31.0,Barranquilla,Regular,24,1155100.0,2.23,Alimentos,Transferencia,2026-09-25,Activo,36
+680,34.0,Cali,Premium,14,2878800.0,1.11,Belleza,Transferencia,2026-08-30,Activo,62
+681,46.0,Medellín,Regular,22,2205800.0,1.86,Ropa,Tarjeta Débito,2026-10-25,Activo,6
+682,21.0,Barranquilla,Regular,29,1979600.0,2.78,Electrónica,Efectivo,2026-10-05,Activo,26
+683,33.0,Bogotá,Regular,29,1699500.0,2.76,Alimentos,Tarjeta Crédito,2026-09-26,Activo,35
+684,39.0,Bogotá,Regular,16,2216100.0,1.44,Ropa,Efectivo,2026-08-10,Activo,82
+685,30.0,Bogotá,Regular,12,1107100.0,0.92,Alimentos,Tarjeta Débito,2026-08-17,Activo,75
+686,31.0,Barranquilla,Regular,30,2130200.0,2.32,Deportes,Transferencia,2026-09-30,Activo,31
+687,48.0,Cali,Regular,16,1896400.0,1.48,Alimentos,Tarjeta Débito,2026-08-26,Activo,66
+688,63.0,Medellín,Básico,4,658200.0,0.34,Hogar,Tarjeta Crédito,2026-07-05,Activo,118
+689,50.0,Medellín,Básico,1,301500.0,0.1,Alimentos,Tarjeta Crédito,2026-04-27,Inactivo,187
+690,48.0,Bucaramanga,Regular,10,1207200.0,0.78,Ropa,Tarjeta Débito,2026-07-16,Activo,107
+691,24.0,Bogotá,Regular,31,2220300.0,2.35,Hogar,Tarjeta Crédito,2026-10-17,Activo,14
+692,29.0,Medellín,Básico,2,553200.0,0.15,Deportes,Tarjeta Crédito,2025-11-24,Inactivo,341
+693,32.0,Barranquilla,Regular,27,1548300.0,1.99,Hogar,Tarjeta Débito,2026-09-22,Activo,39
+694,33.0,Barranquilla,Regular,24,1096200.0,2.11,Alimentos,Transferencia,2026-10-02,Activo,29
+695,38.0,Medellín,Básico,2,471500.0,0.18,Belleza,Tarjeta Crédito,2026-06-30,Activo,123
+696,28.0,Bogotá,Regular,12,1836100.0,0.88,Hogar,Tarjeta Crédito,2026-07-18,Activo,105
+697,48.0,Cartagena,Regular,15,2175500.0,1.42,Ropa,Transferencia,2026-09-22,Activo,39
+698,41.0,Medellín,Regular,13,2417900.0,1.27,Hogar,Tarjeta Débito,2026-09-12,Activo,49
+699,43.0,Bucaramanga,Premium,17,2927200.0,1.51,Ropa,Efectivo,2026-08-19,Activo,73
+700,32.0,Barranquilla,Regular,29,2079300.0,2.22,Hogar,Tarjeta Débito,2026-10-02,Activo,29
+701,38.0,Bucaramanga,Regular,31,2005500.0,2.43,Belleza,Tarjeta Débito,2026-10-19,Activo,12
+702,28.0,Bogotá,Regular,25,1049200.0,1.79,Hogar,Tarjeta Crédito,2026-10-22,Activo,9
+703,29.0,Medellín,Regular,24,1359400.0,2.1,Alimentos,Tarjeta Débito,2026-10-24,Activo,7
+704,47.0,Bogotá,Regular,4,917800.0,0.36,Electrónica,Tarjeta Débito,2026-03-28,Inactivo,217
+705,35.0,Bogotá,Regular,24,1498000.0,2.08,Ropa,Tarjeta Crédito,2026-09-22,Activo,39
+706,44.0,Bogotá,Regular,10,1793300.0,0.76,Belleza,Tarjeta Crédito,2026-07-11,Activo,112
+707,59.0,Medellín,Regular,4,1114200.0,0.37,Deportes,Tarjeta Débito,2025-11-27,Inactivo,338
+708,28.0,Medellín,Regular,5,1937800.0,0.36,Hogar,Efectivo,2026-07-24,Activo,99
+709,32.0,Cali,Regular,12,1638500.0,1.0,Belleza,Tarjeta Débito,2026-07-13,Activo,110
+710,50.0,Medellín,Regular,14,1393600.0,1.07,Deportes,Efectivo,2026-08-30,Activo,62
+711,68.0,Bogotá,Básico,2,496800.0,0.15,Ropa,Efectivo,2025-11-02,Inactivo,363
+712,32.0,Medellín,Premium,14,2874800.0,1.17,Belleza,Tarjeta Crédito,2026-10-17,Activo,14
+713,61.0,Barranquilla,Regular,4,1329800.0,0.31,Hogar,Transferencia,2025-12-27,Inactivo,308
+714,61.0,Bogotá,Básico,2,551300.0,0.17,Hogar,Transferencia,2025-11-14,Inactivo,351
+715,47.0,Barranquilla,Regular,4,830200.0,0.3,Belleza,Tarjeta Crédito,2026-06-28,Activo,125
+716,29.0,Medellín,Regular,28,1498000.0,2.11,Belleza,Tarjeta Débito,2026-09-27,Activo,34
+717,38.0,Cali,Regular,15,1816800.0,1.22,Deportes,Tarjeta Crédito,2026-08-25,Activo,67
+718,24.0,Barranquilla,Regular,31,2278100.0,2.85,Hogar,Transferencia,2026-10-21,Activo,10
+719,20.0,Cali,Regular,12,1303700.0,0.86,Hogar,Tarjeta Débito,2026-08-31,Activo,61
+720,52.0,Cali,Básico,2,631300.0,0.15,Alimentos,Tarjeta Débito,2026-06-22,Activo,131
+721,45.0,Cartagena,Regular,14,1687300.0,1.12,Electrónica,Transferencia,2026-10-17,Activo,14
+722,50.0,Bogotá,Básico,4,540100.0,0.29,Belleza,Tarjeta Débito,2026-09-20,Activo,41
+723,38.0,Medellín,Regular,22,1112800.0,1.83,Belleza,Tarjeta Crédito,2026-10-29,Activo,2
+724,51.0,Cartagena,Básico,1,347400.0,0.09,Deportes,Tarjeta Débito,2025-12-04,Inactivo,331
+725,32.0,Bucaramanga,Regular,29,1100300.0,2.45,Belleza,Efectivo,2026-10-20,Activo,11
+726,32.0,Cali,Regular,30,1679800.0,2.95,Hogar,Tarjeta Crédito,2026-09-27,Activo,34
+727,31.0,Bogotá,Regular,34,2114500.0,2.79,Belleza,Tarjeta Débito,2026-09-27,Activo,34
+728,22.0,Medellín,Regular,24,2057600.0,1.89,Hogar,Tarjeta Débito,2026-10-19,Activo,12
+729,35.0,Bucaramanga,Básico,5,643000.0,0.48,Electrónica,Tarjeta Débito,2026-08-04,Activo,88
+730,41.0,Barranquilla,Regular,15,2386100.0,1.36,Hogar,Transferencia,2026-09-14,Activo,47
+731,41.0,Bogotá,Básico,19,729800.0,1.47,Deportes,Tarjeta Débito,2026-10-15,Activo,16
+732,41.0,Bogotá,Regular,25,1422500.0,1.9,Belleza,Tarjeta Débito,2026-10-05,Activo,26
+733,28.0,Barranquilla,Regular,32,2309600.0,2.29,Alimentos,Efectivo,2026-10-25,Activo,6
+734,42.0,Cali,Premium,18,2926600.0,1.63,Hogar,Tarjeta Crédito,2026-10-05,Activo,26
+735,32.0,Cartagena,Premium,39,2657100.0,2.92,Alimentos,Tarjeta Crédito,2026-10-03,Activo,28
+736,32.0,Medellín,Regular,7,1192900.0,0.65,Alimentos,Transferencia,2026-10-11,Activo,20
+737,34.0,Medellín,Regular,26,1839600.0,2.47,Alimentos,Efectivo,2026-10-19,Activo,12
+738,18.0,Bogotá,Regular,28,1009200.0,2.17,Ropa,Tarjeta Débito,2026-10-03,Activo,28
+739,46.0,Medellín,Regular,11,1721100.0,0.93,Electrónica,Tarjeta Crédito,2026-08-22,Activo,70
+740,38.0,Medellín,Regular,12,1498000.0,0.91,Ropa,Tarjeta Crédito,2026-07-12,Activo,111
+741,29.0,Bogotá,Regular,30,2157200.0,2.7,Belleza,Tarjeta Crédito,2026-10-30,Activo,1
+742,26.0,Medellín,Regular,33,1845300.0,3.04,Ropa,Tarjeta Débito,2026-10-15,Activo,16
+743,62.0,Bogotá,Básico,2,675700.0,0.16,Electrónica,Tarjeta Débito,2026-07-17,Activo,106
+744,33.0,Bucaramanga,Regular,30,1691500.0,2.87,Ropa,Tarjeta Crédito,2026-10-02,Activo,29
+745,35.0,Bogotá,Regular,7,1082400.0,0.63,Ropa,Tarjeta Débito,2026-07-08,Activo,115
+746,40.0,Medellín,Regular,13,2370300.0,1.22,Alimentos,Transferencia,2026-07-20,Activo,103
+747,29.0,Barranquilla,Regular,32,2428000.0,2.84,Alimentos,Transferencia,2026-10-23,Activo,8
+748,41.0,Bogotá,Regular,10,1525600.0,0.77,Ropa,Transferencia,2026-08-24,Activo,68
+749,28.0,Cali,Básico,1,341500.0,0.1,Electrónica,Tarjeta Débito,2026-04-14,Inactivo,200
+750,55.0,Bucaramanga,Básico,3,657600.0,0.24,Ropa,Tarjeta Débito,2025-10-20,Inactivo,376
+751,32.0,Cali,Regular,30,1841800.0,2.43,Electrónica,Tarjeta Débito,2026-10-05,Activo,26
+752,38.0,Medellín,Regular,30,2284800.0,2.47,Alimentos,Tarjeta Crédito,2026-09-22,Activo,39
+753,20.0,Bucaramanga,Regular,30,1992900.0,2.51,Ropa,Transferencia,2026-09-26,Activo,35
+754,36.0,Cartagena,Regular,8,900200.0,0.63,Ropa,Efectivo,2026-10-07,Activo,24
+755,31.0,Bucaramanga,Regular,13,1597800.0,0.97,Alimentos,Tarjeta Débito,2026-08-30,Activo,62
+756,26.0,Medellín,Regular,24,1621100.0,2.25,Deportes,Tarjeta Crédito,2026-10-29,Activo,2
+757,28.0,Cali,Regular,26,1547400.0,1.96,Hogar,Tarjeta Crédito,2026-10-31,Activo,0
+758,44.0,Cali,Regular,6,1078600.0,0.59,Alimentos,Transferencia,2026-01-23,Inactivo,281
+759,29.0,Medellín,Regular,32,2335400.0,2.68,Alimentos,Tarjeta Crédito,2026-09-26,Activo,35
+760,30.0,Medellín,Regular,13,2024100.0,1.08,Alimentos,Tarjeta Crédito,2026-09-19,Activo,42
+761,35.0,Bucaramanga,Regular,12,1756600.0,1.11,Ropa,Tarjeta Débito,2026-10-01,Activo,30
+762,30.0,Medellín,Premium,30,2555200.0,2.9,Hogar,Efectivo,2026-10-28,Activo,3
+763,30.0,Bucaramanga,Regular,23,1277300.0,2.23,Hogar,Tarjeta Crédito,2026-10-09,Activo,22
+764,33.0,Cartagena,Regular,30,1429500.0,2.96,Electrónica,Tarjeta Crédito,2026-10-07,Activo,24
+765,46.0,Medellín,Regular,4,816900.0,0.33,Electrónica,Efectivo,2026-02-19,Inactivo,254
+766,29.0,Bogotá,Regular,23,1263900.0,2.17,Deportes,Transferencia,2026-10-01,Activo,30
+767,23.0,Cartagena,Regular,29,1495200.0,2.19,Electrónica,Tarjeta Débito,2026-10-18,Activo,13
+768,27.0,Bogotá,Regular,27,1321500.0,1.99,Belleza,Efectivo,2026-10-24,Activo,7
+769,26.0,Barranquilla,Regular,19,945600.0,1.7,Belleza,Tarjeta Crédito,2026-10-04,Activo,27
+770,44.0,Bogotá,Regular,5,956900.0,0.47,Hogar,Efectivo,2026-08-24,Activo,68
+771,34.0,Bogotá,Premium,40,3618200.0,3.44,Ropa,Tarjeta Débito,2026-10-10,Activo,21
+772,44.0,Bogotá,Regular,12,2232700.0,0.89,Ropa,Transferencia,2026-07-29,Activo,94
+773,36.0,Bogotá,Básico,10,333700.0,0.86,Ropa,Efectivo,2026-10-21,Activo,10
+774,63.0,Cartagena,Regular,5,1562700.0,0.48,Ropa,Tarjeta Crédito,2026-01-23,Inactivo,281
+775,39.0,Bogotá,Regular,31,1908700.0,2.22,Ropa,Tarjeta Crédito,2026-09-29,Activo,32
+776,52.0,Bogotá,Básico,3,772600.0,0.25,Deportes,Transferencia,2026-06-15,Activo,138
+777,42.0,Barranquilla,Regular,8,1346300.0,0.7,Ropa,Tarjeta Crédito,2026-07-18,Activo,105
+778,34.0,Cartagena,Regular,24,1286700.0,1.77,Hogar,Efectivo,2026-10-25,Activo,6
+779,62.0,Medellín,Regular,5,1283100.0,0.36,Ropa,Tarjeta Débito,2026-01-29,Inactivo,275
+780,47.0,Barranquilla,Regular,4,1386600.0,0.33,Belleza,Tarjeta Crédito,2025-11-23,Inactivo,342
+781,26.0,Bogotá,Regular,23,1403300.0,2.05,Belleza,Efectivo,2026-10-21,Activo,10
+782,45.0,Bucaramanga,Básico,2,507300.0,0.17,Electrónica,Tarjeta Débito,2026-05-15,Activo,169
+783,36.0,Barranquilla,Regular,11,1829000.0,1.01,Alimentos,Transferencia,2026-08-12,Activo,80
+784,38.0,Bogotá,Regular,11,1812900.0,0.92,Belleza,Tarjeta Crédito,2026-07-20,Activo,103
+785,43.0,Cali,Básico,1,220600.0,0.09,Hogar,Tarjeta Crédito,2025-10-06,Inactivo,390
+786,30.0,Cartagena,Regular,10,1806500.0,0.8,Electrónica,Tarjeta Crédito,2026-10-16,Activo,15
+787,55.0,Medellín,Regular,5,1198600.0,0.38,Hogar,Tarjeta Crédito,2025-11-27,Inactivo,338
+788,29.0,Barranquilla,Regular,25,1590600.0,1.8,Hogar,Efectivo,2026-10-25,Activo,6
+789,38.0,Barranquilla,Básico,2,355200.0,0.15,Belleza,Tarjeta Crédito,2026-03-08,Inactivo,237
+790,38.0,Bogotá,Regular,11,2282600.0,1.06,Hogar,Tarjeta Crédito,2026-07-17,Activo,106
+791,38.0,Cartagena,Regular,35,1469200.0,3.23,Hogar,Transferencia,2026-10-15,Activo,16
+792,38.0,Barranquilla,Regular,11,1443500.0,0.91,Hogar,Tarjeta Crédito,2026-07-27,Activo,96
+793,24.0,Bucaramanga,Regular,22,1455200.0,1.99,Ropa,Tarjeta Débito,2026-10-02,Activo,29
+794,37.0,Medellín,Regular,18,1506300.0,1.79,Belleza,Transferencia,2026-10-23,Activo,8
+795,29.0,Bucaramanga,Regular,37,2069100.0,2.84,Electrónica,Efectivo,2026-10-18,Activo,13
+796,38.0,Medellín,Regular,21,1433500.0,1.84,Ropa,Tarjeta Crédito,2026-09-29,Activo,32
+797,28.0,Cartagena,Regular,30,2195200.0,2.92,Alimentos,Transferencia,2026-10-18,Activo,13
+798,25.0,Bogotá,Regular,20,1141000.0,1.66,Electrónica,Tarjeta Débito,2026-10-07,Activo,24
+799,51.0,Cali,Regular,12,1498000.0,0.86,Electrónica,Tarjeta Crédito,2026-10-11,Activo,20
+800,29.0,Bogotá,Regular,13,1846100.0,1.02,Belleza,Tarjeta Crédito,2026-10-05,Activo,26
+801,34.0,Barranquilla,Regular,8,1028700.0,0.75,Hogar,Transferencia,2026-10-17,Activo,14
+802,34.0,Medellín,Premium,38,2541300.0,3.15,Hogar,Tarjeta Crédito,2026-10-17,Activo,14
+803,50.0,Bucaramanga,Regular,4,916400.0,0.29,Ropa,Transferencia,2026-05-09,Activo,175
+804,39.0,Bucaramanga,Regular,9,1147200.0,0.88,Electrónica,Tarjeta Crédito,2026-10-08,Activo,23
+805,18.0,Medellín,Regular,21,1929100.0,1.67,Electrónica,Tarjeta Crédito,2026-10-01,Activo,30
+806,25.0,Bucaramanga,Regular,23,1645100.0,1.79,Electrónica,Transferencia,2026-10-20,Activo,11
+807,42.0,Barranquilla,Regular,11,1321200.0,0.86,Alimentos,Transferencia,2026-09-13,Activo,48
+808,22.0,Medellín,Regular,30,1656000.0,2.83,Ropa,Tarjeta Crédito,2026-10-03,Activo,28
+809,43.0,Medellín,Regular,12,1911900.0,0.88,Hogar,Tarjeta Crédito,2026-08-16,Activo,76
+810,47.0,Bogotá,Regular,4,1158900.0,0.35,Belleza,Efectivo,2026-07-01,Activo,122
+811,30.0,Bogotá,Regular,38,1660200.0,3.72,Hogar,Tarjeta Débito,2026-10-10,Activo,21
+812,40.0,Cali,Regular,20,4678000.0,1.94,Electrónica,Tarjeta Débito,2026-09-24,Activo,37
+813,57.0,Cali,Regular,4,1123900.0,0.34,Electrónica,Tarjeta Crédito,2025-10-14,Inactivo,382
+814,42.0,Medellín,Regular,10,1799100.0,0.98,Deportes,Transferencia,2026-07-07,Activo,116
+815,35.0,Cartagena,Regular,21,1003000.0,1.6,Alimentos,Tarjeta Crédito,2026-10-03,Activo,28
+816,38.0,Bogotá,Regular,6,1263100.0,0.45,Hogar,Tarjeta Crédito,2025-12-10,Inactivo,325
+817,36.0,Bucaramanga,Básico,1,227400.0,0.1,Hogar,Tarjeta Crédito,2026-03-13,Inactivo,232
+818,36.0,Bucaramanga,Básico,8,672700.0,0.6,Hogar,Tarjeta Crédito,2026-08-16,Activo,76
+819,30.0,Barranquilla,Regular,13,1947100.0,0.93,Ropa,Tarjeta Débito,2026-08-14,Activo,78
+820,33.0,Cali,Regular,31,2118400.0,3.06,Deportes,Tarjeta Crédito,2026-10-17,Activo,14
+821,40.0,Bogotá,Regular,30,2159500.0,2.33,Alimentos,Tarjeta Débito,2026-09-24,Activo,37
+822,33.0,Bucaramanga,Regular,14,2395500.0,1.0,Deportes,Tarjeta Débito,2026-10-01,Activo,30
+823,36.0,Barranquilla,Regular,28,1754900.0,2.12,Electrónica,Tarjeta Crédito,2026-10-01,Activo,30
+824,44.0,Bucaramanga,Regular,17,2196100.0,1.41,Alimentos,Transferencia,2026-08-19,Activo,73
+825,60.0,Bogotá,Básico,2,567500.0,0.15,Deportes,Tarjeta Débito,2026-06-09,Activo,144
+826,18.0,Cali,Regular,26,1157800.0,2.03,Hogar,Tarjeta Crédito,2026-10-25,Activo,6
+827,47.0,Bogotá,Básico,3,525900.0,0.27,Alimentos,Tarjeta Crédito,2026-08-03,Activo,89
+828,30.0,Cali,Regular,37,2275200.0,3.4,Electrónica,Tarjeta Débito,2026-10-24,Activo,7
+829,38.0,Barranquilla,Básico,1,315400.0,0.08,Belleza,Efectivo,2026-02-14,Inactivo,259
+830,22.0,Bogotá,Regular,25,1202100.0,2.18,Deportes,Efectivo,2026-10-06,Activo,25
+831,40.0,Bogotá,Regular,15,2160500.0,1.33,Alimentos,Efectivo,2026-10-05,Activo,26
+832,41.0,Bogotá,Premium,15,2752500.0,1.4,Alimentos,Tarjeta Crédito,2026-09-12,Activo,49
+833,51.0,Bogotá,Regular,11,1346600.0,0.82,Deportes,Transferencia,2026-10-17,Activo,14
+834,50.0,Bogotá,Regular,16,1854500.0,1.25,Ropa,Tarjeta Crédito,2026-09-03,Activo,58
+835,49.0,Bogotá,Regular,10,1591400.0,0.88,Belleza,Tarjeta Crédito,2026-09-29,Activo,32
+836,35.0,Medellín,Regular,15,1498000.0,1.37,Hogar,Tarjeta Débito,2026-09-27,Activo,34
+837,43.0,Barranquilla,Regular,3,811500.0,0.29,Deportes,Tarjeta Crédito,2026-05-02,Inactivo,182
+838,39.0,Barranquilla,Regular,5,959100.0,0.48,Deportes,Tarjeta Débito,2026-06-10,Activo,143
+839,51.0,Medellín,Premium,14,2908500.0,1.12,Belleza,Tarjeta Crédito,2026-10-08,Activo,23
+840,49.0,Bogotá,Regular,10,1311600.0,0.96,Electrónica,Efectivo,2026-09-16,Activo,45
+841,28.0,Barranquilla,Regular,30,1039200.0,2.17,Ropa,Efectivo,2026-09-22,Activo,39
+842,67.0,Medellín,Regular,3,878700.0,0.27,Alimentos,Tarjeta Débito,2025-10-22,Inactivo,374
+843,46.0,Bogotá,Premium,14,2552000.0,1.39,Alimentos,Tarjeta Débito,2026-07-05,Activo,118
+844,41.0,Medellín,Regular,12,1491200.0,0.89,Deportes,Tarjeta Crédito,2026-07-25,Activo,98
+845,37.0,Cartagena,Regular,31,2480600.0,2.7,Alimentos,Transferencia,2026-10-11,Activo,20
+846,53.0,Medellín,Básico,1,240400.0,0.09,Hogar,Tarjeta Débito,2025-11-19,Inactivo,346
+847,34.0,Cartagena,Regular,16,2367100.0,1.53,Deportes,Tarjeta Débito,2026-08-21,Activo,71
+848,35.0,Bogotá,Regular,13,1634100.0,1.03,Ropa,Tarjeta Crédito,2026-10-12,Activo,19
+849,29.0,Bogotá,Regular,19,1672200.0,1.66,Belleza,Tarjeta Crédito,2026-10-10,Activo,21
+850,56.0,Bogotá,Básico,4,640700.0,0.3,Alimentos,Tarjeta Débito,2025-10-02,Inactivo,394
+851,21.0,Barranquilla,Premium,29,1498000.0,2.32,Alimentos,Efectivo,2026-09-24,Activo,37
+852,20.0,Cali,Regular,32,2105100.0,2.37,Alimentos,Transferencia,2026-10-15,Activo,16
+853,57.0,Cali,Regular,5,1003500.0,0.4,Belleza,Transferencia,2025-11-15,Inactivo,350
+854,42.0,Cartagena,Básico,1,295200.0,0.08,Belleza,Tarjeta Débito,2025-10-25,Inactivo,371
+855,32.0,Cali,Regular,32,1812800.0,2.5,Alimentos,Tarjeta Débito,2026-10-13,Activo,18
+856,51.0,Bogotá,Regular,10,1414000.0,0.84,Alimentos,Efectivo,2026-08-29,Activo,63
+857,34.0,Barranquilla,Premium,20,2678300.0,1.57,Electrónica,Tarjeta Crédito,2026-09-20,Activo,41
+858,38.0,Bogotá,Regular,6,1817500.0,0.47,Electrónica,Tarjeta Débito,2026-01-18,Inactivo,286
+859,47.0,Cali,Regular,15,2333400.0,1.5,Deportes,Efectivo,2026-08-24,Activo,68
+860,51.0,Bucaramanga,Básico,9,786200.0,0.7,Ropa,Tarjeta Crédito,2026-10-10,Activo,21
+861,38.0,Medellín,Regular,12,1498000.0,1.09,Ropa,Tarjeta Crédito,2026-10-05,Activo,26
+862,44.0,Medellín,Regular,10,1196200.0,0.82,Alimentos,Tarjeta Débito,2026-07-07,Activo,116
+863,27.0,Cali,Regular,5,1573600.0,0.48,Hogar,Tarjeta Débito,2026-05-18,Activo,166
+864,38.0,Bogotá,Premium,17,2960600.0,1.68,Hogar,Tarjeta Crédito,2026-07-29,Activo,94
+865,37.0,Medellín,Regular,28,1710800.0,2.78,Electrónica,Tarjeta Crédito,2026-09-29,Activo,32
+866,28.0,Cali,Básico,1,268000.0,0.09,Deportes,Tarjeta Crédito,2026-07-18,Activo,105
+867,48.0,Bogotá,Regular,7,1774000.0,0.69,Alimentos,Transferencia,2026-06-12,Activo,141
+868,37.0,Bogotá,Básico,1,256400.0,0.09,Hogar,Transferencia,2026-07-22,Activo,101
+869,28.0,Cali,Regular,25,1072700.0,2.04,Alimentos,Transferencia,2026-09-24,Activo,37
+870,34.0,Medellín,Regular,25,1391800.0,2.15,Electrónica,Transferencia,2026-10-14,Activo,17
+871,44.0,Medellín,Regular,14,1984700.0,1.01,Deportes,Tarjeta Crédito,2026-08-13,Activo,79
+872,40.0,Cartagena,Regular,28,1920300.0,2.12,Hogar,Tarjeta Crédito,2026-09-26,Activo,35
+873,52.0,Bogotá,Regular,6,1759700.0,0.57,Hogar,Tarjeta Débito,2025-11-12,Inactivo,353
+874,26.0,Bogotá,Regular,10,1649200.0,0.86,Belleza,Tarjeta Débito,2026-08-28,Activo,64
+875,45.0,Bucaramanga,Regular,13,1429700.0,1.11,Deportes,Efectivo,2026-10-01,Activo,30
+876,46.0,Bogotá,Básico,3,623600.0,0.26,Deportes,Tarjeta Crédito,2026-06-02,Activo,151
+877,38.0,Cartagena,Regular,13,2350400.0,1.08,Alimentos,Transferencia,2026-09-22,Activo,39
+878,27.0,Barranquilla,Premium,31,2556400.0,2.44,Alimentos,Tarjeta Crédito,2026-10-02,Activo,29
+879,24.0,Cali,Regular,8,1344300.0,0.64,Hogar,Tarjeta Débito,2026-09-21,Activo,40
+880,36.0,Bogotá,Premium,21,3080800.0,1.84,Hogar,Transferencia,2026-08-29,Activo,63
+881,36.0,Medellín,Regular,14,2474400.0,1.09,Belleza,Tarjeta Débito,2026-09-03,Activo,58
+882,49.0,Bucaramanga,Regular,12,1823500.0,1.08,Belleza,Efectivo,2026-08-02,Activo,90
+883,56.0,Bogotá,Básico,1,317600.0,0.07,Deportes,Efectivo,2025-12-12,Inactivo,323
+884,44.0,Barranquilla,Regular,10,1746100.0,0.72,Belleza,Efectivo,2026-09-24,Activo,37
+885,34.0,Bucaramanga,Regular,34,1524000.0,3.04,Deportes,Transferencia,2026-10-21,Activo,10
+886,44.0,Barranquilla,Regular,6,950900.0,0.46,Ropa,Tarjeta Débito,2026-09-26,Activo,35
+887,22.0,Bogotá,Regular,7,969300.0,0.53,Deportes,Tarjeta Débito,2026-09-02,Activo,59
+888,30.0,Barranquilla,Regular,24,1149200.0,2.01,Deportes,Transferencia,2026-09-26,Activo,35
+889,28.0,Barranquilla,Premium,37,3664100.0,3.57,Electrónica,Tarjeta Débito,2026-09-26,Activo,35
+890,18.0,Bogotá,Regular,13,1673400.0,0.99,Belleza,Tarjeta Débito,2026-09-05,Activo,56
+891,24.0,Bucaramanga,Regular,27,1498000.0,2.32,Ropa,Tarjeta Débito,2026-09-28,Activo,33
+892,42.0,Bogotá,Regular,3,1005900.0,0.28,Hogar,Tarjeta Crédito,2025-11-16,Inactivo,349
+893,26.0,Cartagena,Regular,46,2361400.0,3.68,Ropa,Tarjeta Débito,2026-09-22,Activo,39
+894,35.0,Bogotá,Regular,18,1356900.0,1.53,Hogar,Transferencia,2026-10-15,Activo,16
+895,39.0,Bogotá,Básico,2,672600.0,0.19,Hogar,Tarjeta Crédito,2026-02-24,Inactivo,249
+896,46.0,Barranquilla,Básico,4,732300.0,0.29,Alimentos,Tarjeta Crédito,2026-06-27,Activo,126
+897,38.0,Bogotá,Regular,35,1970200.0,3.19,Belleza,Tarjeta Crédito,2026-09-26,Activo,35
+898,37.0,Bogotá,Regular,28,2247400.0,2.32,Ropa,Tarjeta Débito,2026-10-25,Activo,6
+899,24.0,Bogotá,Regular,28,1522700.0,2.21,Hogar,Tarjeta Crédito,2026-09-27,Activo,34
+900,38.0,Bucaramanga,Regular,12,1691000.0,1.15,Deportes,Efectivo,2026-10-01,Activo,30
+901,40.0,Bogotá,Regular,12,1285300.0,0.93,Hogar,Tarjeta Crédito,2026-08-28,Activo,64
+902,30.0,Cali,Regular,25,1986100.0,1.99,Alimentos,Tarjeta Crédito,2026-10-30,Activo,1
+903,31.0,Cali,Regular,30,1086900.0,2.51,Hogar,Tarjeta Crédito,2026-10-02,Activo,29
+904,42.0,Cali,Regular,13,2088200.0,1.07,Hogar,Tarjeta Crédito,2026-08-06,Activo,86
+905,68.0,Medellín,Básico,1,237200.0,0.07,Hogar,Transferencia,2026-06-29,Activo,124
+906,43.0,Bogotá,Regular,11,1937100.0,0.81,Ropa,Transferencia,2026-07-20,Activo,103
+907,42.0,Cartagena,Regular,7,1245600.0,0.67,Belleza,Efectivo,2026-10-19,Activo,12
+908,30.0,Barranquilla,Regular,29,1750600.0,2.53,Deportes,Transferencia,2026-10-12,Activo,19
+909,20.0,Cartagena,Regular,19,1110800.0,1.57,Deportes,Tarjeta Crédito,2026-10-05,Activo,26
+910,34.0,Barranquilla,Regular,25,1124100.0,1.83,Electrónica,Transferencia,2026-10-20,Activo,11
+911,38.0,Bucaramanga,Básico,1,200000.0,0.08,Electrónica,Tarjeta Débito,2026-05-24,Activo,160
+912,53.0,Cartagena,Regular,9,2431900.0,0.78,Ropa,Efectivo,2026-01-03,Inactivo,301
+913,39.0,Medellín,Básico,1,232300.0,0.07,Belleza,Tarjeta Débito,2026-03-05,Inactivo,240
+914,50.0,Cartagena,Regular,4,1025700.0,0.35,Electrónica,Tarjeta Crédito,2025-10-17,Inactivo,379
+915,61.0,Bogotá,Regular,4,992200.0,0.36,Deportes,Tarjeta Crédito,2026-04-09,Inactivo,205
+916,52.0,Bogotá,Regular,4,951100.0,0.32,Deportes,Tarjeta Crédito,2026-01-15,Inactivo,289
+917,26.0,Medellín,Regular,38,2068700.0,3.33,Hogar,Tarjeta Débito,2026-10-22,Activo,9
+918,36.0,Medellín,Regular,27,2034600.0,2.16,Electrónica,Tarjeta Crédito,2026-10-07,Activo,24
+919,20.0,Medellín,Regular,32,2258500.0,2.75,Electrónica,Transferencia,2026-10-06,Activo,25
+920,35.0,Cali,Regular,13,2232200.0,0.99,Electrónica,Tarjeta Crédito,2026-07-29,Activo,94
+921,34.0,Cali,Regular,27,1718700.0,1.95,Belleza,Tarjeta Débito,2026-10-24,Activo,7
+922,56.0,Bucaramanga,Regular,7,1533500.0,0.63,Deportes,Tarjeta Débito,2026-05-24,Activo,160
+923,47.0,Medellín,Regular,8,1239900.0,0.66,Deportes,Tarjeta Crédito,2026-07-26,Activo,97
+924,32.0,Medellín,Regular,14,2085600.0,1.09,Electrónica,Tarjeta Crédito,2026-09-27,Activo,34
+925,29.0,Barranquilla,Regular,27,1686800.0,2.54,Belleza,Tarjeta Débito,2026-10-14,Activo,17
+926,26.0,Cali,Premium,34,3361200.0,2.58,Deportes,Tarjeta Débito,2026-10-19,Activo,12
+927,23.0,Bucaramanga,Regular,31,1543700.0,2.51,Deportes,Tarjeta Crédito,2026-09-24,Activo,37
+928,41.0,Medellín,Regular,7,932200.0,0.66,Ropa,Tarjeta Crédito,2026-05-05,Activo,179
+929,39.0,Bogotá,Regular,12,4678000.0,0.89,Hogar,Tarjeta Crédito,2026-09-04,Activo,57
+930,39.0,Cartagena,Regular,14,2123100.0,1.2,Deportes,Transferencia,2026-08-27,Activo,65
+931,23.0,Bogotá,Premium,34,3219200.0,3.18,Electrónica,Transferencia,2026-10-22,Activo,9
+932,38.0,Barranquilla,Regular,7,852500.0,0.65,Hogar,Tarjeta Crédito,2026-07-15,Activo,108
+933,46.0,Medellín,Regular,12,1581800.0,0.91,Electrónica,Tarjeta Débito,2026-09-21,Activo,40
+934,62.0,Medellín,Regular,4,1116200.0,0.29,Electrónica,Transferencia,2026-05-11,Activo,173
+935,58.0,Bucaramanga,Regular,7,2169700.0,0.61,Alimentos,Tarjeta Crédito,2026-04-27,Inactivo,187
+936,30.0,Medellín,Regular,32,2398700.0,3.1,Hogar,Tarjeta Crédito,2026-10-10,Activo,21
+937,44.0,Bogotá,Básico,4,745400.0,0.38,Belleza,Tarjeta Crédito,2025-11-27,Inactivo,338
+938,44.0,Barranquilla,Regular,31,987800.0,2.46,Belleza,Tarjeta Crédito,2026-10-12,Activo,19
+939,38.0,Bogotá,Básico,4,716500.0,0.35,Hogar,Transferencia,2026-04-13,Inactivo,201
+940,40.0,Bogotá,Premium,30,2574600.0,2.56,Deportes,Transferencia,2026-09-24,Activo,37
+941,39.0,Bogotá,Regular,29,2039600.0,2.56,Electrónica,Tarjeta Débito,2026-10-30,Activo,1
+942,38.0,Medellín,Básico,3,593800.0,0.25,Hogar,Tarjeta Crédito,2025-09-27,Inactivo,399
+943,18.0,Cali,Regular,20,1760600.0,1.59,Alimentos,Transferencia,2026-10-17,Activo,14
+944,41.0,Medellín,Regular,13,2067100.0,1.07,Hogar,Tarjeta Crédito,2026-07-20,Activo,103
+945,35.0,Bogotá,Regular,14,1837900.0,1.31,Electrónica,Tarjeta Crédito,2026-09-23,Activo,38
+946,30.0,Medellín,Regular,34,2031000.0,2.84,Electrónica,Tarjeta Crédito,2026-10-11,Activo,20
+947,41.0,Bucaramanga,Regular,11,1259200.0,0.93,Alimentos,Transferencia,2026-07-09,Activo,114
+948,59.0,Bogotá,Básico,2,585300.0,0.16,Hogar,Efectivo,2026-01-04,Inactivo,300
+949,53.0,Cartagena,Básico,1,313300.0,0.1,Hogar,Tarjeta Débito,2026-04-13,Inactivo,201
+950,37.0,Medellín,Regular,23,865800.0,2.17,Hogar,Efectivo,2026-10-30,Activo,1
+951,38.0,Medellín,Regular,12,2040000.0,0.99,Belleza,Tarjeta Crédito,2026-07-08,Activo,115
+952,24.0,Barranquilla,Premium,36,2745500.0,3.24,Belleza,Tarjeta Débito,2026-09-29,Activo,32
+953,32.0,Medellín,Regular,35,1280300.0,2.8,Deportes,Transferencia,2026-10-18,Activo,13
+954,41.0,Cali,Regular,25,2231200.0,2.18,Electrónica,Transferencia,2026-10-14,Activo,17
+955,54.0,Cartagena,Regular,5,1260500.0,0.46,Hogar,Tarjeta Débito,2026-03-09,Inactivo,236
+956,56.0,Bucaramanga,Básico,2,444800.0,0.16,Belleza,Tarjeta Crédito,2026-02-12,Inactivo,261
+957,38.0,Bogotá,Básico,2,421600.0,0.17,Alimentos,Transferencia,2026-01-01,Inactivo,303
+958,22.0,Barranquilla,Regular,14,2262900.0,1.32,Electrónica,Tarjeta Débito,2026-10-10,Activo,21
+959,40.0,Medellín,Premium,16,2771800.0,1.21,Hogar,Tarjeta Crédito,2026-08-18,Activo,74
+960,39.0,Barranquilla,Regular,7,808700.0,0.6,Deportes,Tarjeta Crédito,2026-07-18,Activo,105
+961,45.0,Bogotá,Regular,14,1626700.0,1.02,Belleza,Tarjeta Crédito,2026-07-21,Activo,102
+962,36.0,Bogotá,Regular,12,1332200.0,1.11,Ropa,Tarjeta Débito,2026-08-15,Activo,77
+963,32.0,Cali,Regular,34,1578000.0,2.52,Electrónica,Tarjeta Débito,2026-10-04,Activo,27
+964,33.0,Bogotá,Regular,32,1862100.0,2.41,Electrónica,Tarjeta Crédito,2026-10-26,Activo,5
+965,56.0,Barranquilla,Básico,2,456500.0,0.19,Hogar,Tarjeta Crédito,2026-05-21,Activo,163
+966,35.0,Bogotá,Regular,13,2008200.0,1.07,Deportes,Tarjeta Débito,2026-10-10,Activo,21
+967,54.0,Bogotá,Básico,2,556300.0,0.16,Deportes,Tarjeta Débito,2025-12-25,Inactivo,310
+968,30.0,Barranquilla,Regular,32,1641200.0,2.67,Hogar,Tarjeta Crédito,2026-10-27,Activo,4
+969,46.0,Cali,Premium,17,3576600.0,1.47,Belleza,Tarjeta Crédito,2026-08-17,Activo,75
+970,31.0,Cartagena,Regular,26,1478500.0,1.89,Belleza,Transferencia,2026-09-23,Activo,38
+971,35.0,Bogotá,Regular,26,1432300.0,2.03,Belleza,Transferencia,2026-10-31,Activo,0
+972,37.0,Bogotá,Regular,33,1519300.0,2.38,Deportes,Tarjeta Débito,2026-10-14,Activo,17
+973,38.0,Bogotá,Regular,33,1678000.0,2.47,Alimentos,Efectivo,2026-09-28,Activo,33
+974,42.0,Medellín,Básico,2,545500.0,0.15,Belleza,Transferencia,2025-10-27,Inactivo,369
+975,38.0,Bogotá,Regular,40,1716100.0,3.1,Deportes,Tarjeta Crédito,2026-10-17,Activo,14
+976,44.0,Barranquilla,Regular,18,2449300.0,1.43,Deportes,Transferencia,2026-10-21,Activo,10
+977,47.0,Bogotá,Regular,14,2025300.0,1.03,Ropa,Tarjeta Débito,2026-08-22,Activo,70
+978,40.0,Cartagena,Regular,12,2089500.0,0.96,Hogar,Tarjeta Débito,2026-07-26,Activo,97
+979,38.0,Cali,Regular,15,2480000.0,1.46,Alimentos,Tarjeta Débito,2026-10-19,Activo,12
+980,28.0,Barranquilla,Regular,23,1258600.0,1.87,Ropa,Tarjeta Crédito,2026-09-29,Activo,32
+981,48.0,Bogotá,Básico,1,261200.0,0.1,Ropa,Efectivo,2026-06-08,Activo,145
+982,45.0,Bogotá,Básico,2,469400.0,0.14,Deportes,Efectivo,2025-11-11,Inactivo,354
+983,43.0,Medellín,Regular,11,1548900.0,0.87,Alimentos,Tarjeta Crédito,2026-08-26,Activo,66
+984,56.0,Cali,Regular,12,1426500.0,0.98,Hogar,Tarjeta Débito,2026-08-25,Activo,67
+985,36.0,Cali,Premium,30,2777700.0,2.78,Hogar,Transferencia,2026-09-30,Activo,31
+986,51.0,Medellín,Básico,1,293900.0,0.08,Alimentos,Transferencia,2025-10-21,Inactivo,375
+987,33.0,Bogotá,Regular,31,970800.0,2.73,Hogar,Tarjeta Débito,2026-10-03,Activo,28
+988,31.0,Cartagena,Premium,35,2710600.0,2.76,Hogar,Tarjeta Crédito,2026-10-07,Activo,24
+989,35.0,Bogotá,Regular,30,1708300.0,2.42,Hogar,Tarjeta Crédito,2026-10-30,Activo,1
+990,44.0,Bogotá,Regular,4,1190300.0,0.33,Alimentos,Tarjeta Crédito,2025-12-28,Inactivo,307
+991,43.0,Medellín,Regular,11,1525700.0,1.0,Ropa,Transferencia,2026-07-24,Activo,99
+992,53.0,Medellín,Básico,1,301700.0,0.08,Ropa,Efectivo,2026-06-16,Activo,137
+993,62.0,Medellín,Básico,1,254900.0,0.08,Electrónica,Transferencia,2026-02-03,Inactivo,270
+994,31.0,Cali,Regular,24,1226200.0,1.79,Electrónica,Tarjeta Crédito,2026-09-22,Activo,39
+995,46.0,Cali,Regular,4,994800.0,0.29,Deportes,Transferencia,2026-02-02,Inactivo,271
+996,49.0,Barranquilla,Regular,11,1610000.0,0.84,Belleza,Transferencia,2026-07-15,Activo,108
+997,30.0,Bogotá,Básico,8,774700.0,0.71,Hogar,Efectivo,2026-08-22,Activo,70
+998,18.0,Bogotá,Regular,25,1835700.0,2.46,Belleza,Transferencia,2026-10-22,Activo,9
+999,51.0,Barranquilla,Básico,2,639200.0,0.15,Alimentos,Tarjeta Débito,2026-01-27,Inactivo,277
+1000,34.0,Bogotá,Regular,25,2431300.0,1.79,Hogar,Tarjeta Crédito,2026-10-10,Activo,21
+1001,33.0,Bogotá,Regular,22,1199500.0,2.09,Alimentos,Tarjeta Crédito,2026-10-07,Activo,24
+1002,31.0,Medellín,Premium,13,2873400.0,1.02,Electrónica,Tarjeta Crédito,2026-07-13,Activo,110
+1003,38.0,Barranquilla,Regular,36,1396100.0,3.08,Ropa,Tarjeta Crédito,2026-10-21,Activo,10
+1004,32.0,Bogotá,Regular,24,1970600.0,2.27,Deportes,Efectivo,2026-10-21,Activo,10
+1005,39.0,Cartagena,Regular,11,1307700.0,0.79,Belleza,Tarjeta Crédito,2026-07-23,Activo,100
+1006,32.0,Medellín,Regular,15,1783800.0,1.09,Hogar,Tarjeta Crédito,2026-08-29,Activo,63
+1007,42.0,Cartagena,Básico,2,496400.0,0.14,Belleza,Tarjeta Crédito,2026-06-13,Activo,140
+1008,27.0,Bogotá,Regular,25,1330200.0,2.36,Alimentos,Efectivo,2026-09-22,Activo,39
+1009,44.0,Barranquilla,Regular,13,2453300.0,1.09,Hogar,Transferencia,2026-08-08,Activo,84
+1010,32.0,Medellín,Básico,5,692100.0,0.37,Deportes,Tarjeta Débito,2026-07-24,Activo,99
+1011,33.0,Bucaramanga,Básico,6,718200.0,0.47,Belleza,Efectivo,2026-10-03,Activo,28
+1012,43.0,Medellín,Regular,13,2136700.0,1.11,Hogar,Transferencia,2026-09-15,Activo,46
+1013,54.0,Bucaramanga,Regular,11,1817600.0,0.91,Electrónica,Efectivo,2026-10-08,Activo,23
+1014,68.0,Barranquilla,Regular,6,1582000.0,0.59,Hogar,Efectivo,2025-11-03,Inactivo,362
+1015,22.0,Cali,Básico,19,724300.0,1.53,Deportes,Tarjeta Débito,2026-10-03,Activo,28
+1016,37.0,Bogotá,Regular,32,1178000.0,2.38,Electrónica,Transferencia,2026-10-14,Activo,17
+1017,44.0,Bogotá,Regular,16,2447100.0,1.6,Hogar,Tarjeta Crédito,2026-09-29,Activo,32
+1018,52.0,Cartagena,Regular,4,828500.0,0.38,Hogar,Efectivo,2025-11-28,Inactivo,337
+1019,32.0,Cartagena,Regular,29,2323000.0,2.4,Electrónica,Tarjeta Débito,2026-09-24,Activo,37
+1020,41.0,Bogotá,Premium,12,2602200.0,0.98,Alimentos,Tarjeta Crédito,2026-07-29,Activo,94
+1021,44.0,Bogotá,Básico,2,683800.0,0.18,Deportes,Efectivo,2026-07-08,Activo,115
+1022,25.0,Bogotá,Regular,10,1498000.0,0.99,Electrónica,Transferencia,2026-09-07,Activo,54
+1023,57.0,Bogotá,Regular,6,1384600.0,0.46,Belleza,Transferencia,2026-05-19,Activo,165
+1024,35.0,Bogotá,Regular,13,1693400.0,1.18,Belleza,Transferencia,2026-09-12,Activo,49
+1025,40.0,Bucaramanga,Regular,14,2421300.0,1.11,Belleza,Efectivo,2026-08-01,Activo,91
+1026,45.0,Bogotá,Premium,38,2759200.0,3.11,Deportes,Tarjeta Débito,2026-09-28,Activo,33
+1027,56.0,Bucaramanga,Regular,3,844000.0,0.26,Ropa,Transferencia,2026-01-01,Inactivo,303
+1028,48.0,Cartagena,Regular,14,2478900.0,1.13,Hogar,Tarjeta Crédito,2026-07-06,Activo,117
+1029,40.0,Bogotá,Regular,13,1957400.0,1.02,Belleza,Tarjeta Crédito,2026-07-22,Activo,101
+1030,34.0,Medellín,Regular,15,1813500.0,1.22,Alimentos,Tarjeta Débito,2026-08-20,Activo,72
+1031,39.0,Cali,Regular,13,2087100.0,1.06,Ropa,Tarjeta Débito,2026-09-08,Activo,53
+1032,46.0,Bogotá,Regular,11,1728200.0,0.94,Ropa,Efectivo,2026-07-04,Activo,119
+1033,48.0,Barranquilla,Regular,12,2145800.0,1.02,Hogar,Transferencia,2026-09-01,Activo,60
+1034,38.0,Cali,Básico,1,248000.0,0.08,Ropa,Tarjeta Crédito,2026-06-23,Activo,130
+1035,33.0,Bogotá,Regular,8,1173800.0,0.68,Deportes,Transferencia,2026-08-17,Activo,75
+1036,43.0,Bucaramanga,Regular,10,1358400.0,0.85,Alimentos,Tarjeta Débito,2026-09-06,Activo,55
+1037,31.0,Medellín,Regular,19,816900.0,1.75,Ropa,Transferencia,2026-10-03,Activo,28
+1038,50.0,Bogotá,Regular,13,2091700.0,1.01,Electrónica,Tarjeta Crédito,2026-09-28,Activo,33
+1039,35.0,Cartagena,Regular,12,1974200.0,1.14,Ropa,Tarjeta Débito,2026-10-16,Activo,15
+1040,34.0,Bogotá,Regular,19,1372600.0,1.39,Hogar,Efectivo,2026-10-30,Activo,1
+1041,33.0,Bogotá,Regular,27,1061000.0,2.16,Ropa,Tarjeta Débito,2026-10-04,Activo,27
+1042,37.0,Bogotá,Regular,12,2158900.0,1.18,Electrónica,Tarjeta Crédito,2026-10-15,Activo,16
+1043,36.0,Medellín,Regular,11,1427500.0,0.87,Belleza,Tarjeta Crédito,2026-07-25,Activo,98
+1044,50.0,Medellín,Regular,5,1121900.0,0.44,Hogar,Tarjeta Crédito,2026-10-21,Activo,10
+1045,38.0,Barranquilla,Regular,19,1062900.0,1.38,Electrónica,Tarjeta Débito,2026-10-21,Activo,10
+1046,19.0,Medellín,Regular,28,2371400.0,2.04,Alimentos,Tarjeta Débito,2026-09-29,Activo,32
+1047,34.0,Cali,Regular,31,2116700.0,2.32,Ropa,Tarjeta Débito,2026-10-09,Activo,22
+1048,37.0,Bogotá,Básico,3,562000.0,0.24,Belleza,Efectivo,2026-03-23,Inactivo,222
+1049,56.0,Medellín,Regular,6,1306000.0,0.44,Ropa,Tarjeta Crédito,2026-01-04,Inactivo,300
+1050,33.0,Cartagena,Regular,31,1512300.0,2.46,Alimentos,Tarjeta Crédito,2026-09-29,Activo,32
+1051,38.0,Barranquilla,Regular,9,1069500.0,0.67,Belleza,Efectivo,2026-08-21,Activo,71
+1052,21.0,Barranquilla,Regular,28,1390200.0,2.63,Belleza,Efectivo,2026-10-08,Activo,23
+1053,29.0,Medellín,Regular,41,2427400.0,3.01,Deportes,Efectivo,2026-10-22,Activo,9
+1054,22.0,Medellín,Regular,26,1350400.0,2.06,Alimentos,Efectivo,2026-10-31,Activo,0
+1055,28.0,Bucaramanga,Regular,23,1381100.0,2.05,Deportes,Transferencia,2026-10-15,Activo,16
+1056,40.0,Bucaramanga,Regular,14,2006500.0,1.0,Hogar,Transferencia,2026-08-25,Activo,67
+1057,56.0,Barranquilla,Básico,1,317700.0,0.08,Belleza,Tarjeta Débito,2026-03-10,Inactivo,235
+1058,34.0,Medellín,Regular,27,1143900.0,1.98,Belleza,Tarjeta Crédito,2026-10-27,Activo,4
+1059,55.0,Bogotá,Regular,9,952900.0,0.9,Ropa,Tarjeta Crédito,2026-10-02,Activo,29
+1060,36.0,Bogotá,Regular,14,2303500.0,1.15,Electrónica,Tarjeta Débito,2026-07-25,Activo,98
+1061,80.0,Bogotá,Regular,4,1164500.0,0.31,Deportes,Tarjeta Débito,2026-05-20,Activo,164
+1062,43.0,Medellín,Regular,11,1473200.0,1.09,Electrónica,Tarjeta Crédito,2026-07-21,Activo,102
+1063,32.0,Bogotá,Regular,29,1663300.0,2.22,Electrónica,Tarjeta Crédito,2026-10-14,Activo,17
+1064,41.0,Medellín,Regular,13,1849900.0,1.03,Belleza,Transferencia,2026-09-28,Activo,33
+1065,31.0,Cali,Regular,27,1929600.0,2.43,Alimentos,Tarjeta Crédito,2026-10-08,Activo,23
+1066,53.0,Cali,Básico,1,332100.0,0.08,Alimentos,Efectivo,2026-01-17,Inactivo,287
+1067,42.0,Cali,Premium,18,2898400.0,1.71,Belleza,Transferencia,2026-07-05,Activo,118
+1068,38.0,Bogotá,Regular,10,1523700.0,0.75,Belleza,Efectivo,2026-07-22,Activo,101
+1069,23.0,Cali,Regular,32,2416500.0,2.38,Belleza,Tarjeta Crédito,2026-10-09,Activo,22
+1070,41.0,Cartagena,Regular,12,1426500.0,1.0,Electrónica,Transferencia,2026-07-10,Activo,113
+1071,38.0,Medellín,Regular,4,1063000.0,0.33,Hogar,Efectivo,2026-02-28,Inactivo,245
+1072,42.0,Bucaramanga,Regular,14,2301800.0,1.21,Deportes,Tarjeta Crédito,2026-08-23,Activo,69
+1073,40.0,Medellín,Regular,10,1529300.0,0.88,Electrónica,Tarjeta Débito,2026-09-02,Activo,59
+1074,47.0,Cali,Básico,2,594100.0,0.15,Hogar,Tarjeta Crédito,2025-11-04,Inactivo,361
+1075,51.0,Medellín,Regular,3,963000.0,0.27,Alimentos,Efectivo,2026-05-14,Activo,170
+1076,33.0,Barranquilla,Regular,33,1662600.0,2.84,Ropa,Transferencia,2026-10-19,Activo,12
+1077,36.0,Bucaramanga,Regular,9,1549300.0,0.8,Hogar,Tarjeta Débito,2026-08-22,Activo,70
+1078,55.0,Medellín,Regular,13,1969000.0,1.03,Belleza,Transferencia,2026-07-04,Activo,119
+1079,51.0,Barranquilla,Regular,13,1967600.0,0.98,Ropa,Tarjeta Débito,2026-09-26,Activo,35
+1080,32.0,Bucaramanga,Regular,32,898500.0,3.0,Ropa,Transferencia,2026-10-22,Activo,9
+1081,21.0,Barranquilla,Regular,23,845500.0,2.09,Alimentos,Tarjeta Crédito,2026-09-28,Activo,33
+1082,56.0,Bogotá,Regular,6,1703800.0,0.58,Deportes,Tarjeta Crédito,2026-06-15,Activo,138
+1083,48.0,Bogotá,Básico,1,252200.0,0.09,Ropa,Transferencia,2026-01-29,Inactivo,275
+1084,60.0,Bucaramanga,Regular,4,1038200.0,0.34,Belleza,Transferencia,2025-12-22,Inactivo,313
+1085,47.0,Barranquilla,Básico,2,561800.0,0.15,Hogar,Tarjeta Débito,2025-10-08,Inactivo,388
+1086,35.0,Cartagena,Básico,7,691700.0,0.58,Belleza,Efectivo,2026-08-04,Activo,88
+1087,58.0,Bogotá,Básico,2,478000.0,0.2,Belleza,Tarjeta Crédito,2026-05-26,Activo,158
+1088,66.0,Barranquilla,Básico,2,402800.0,0.16,Electrónica,Tarjeta Crédito,2026-02-05,Inactivo,268
+1089,47.0,Bucaramanga,Regular,10,1592600.0,0.76,Deportes,Tarjeta Crédito,2026-09-03,Activo,58
+1090,39.0,Bucaramanga,Regular,13,1722200.0,1.12,Electrónica,Tarjeta Débito,2026-09-16,Activo,45
+1091,31.0,Barranquilla,Regular,30,1923400.0,2.73,Ropa,Tarjeta Crédito,2026-09-24,Activo,37
+1092,53.0,Bogotá,Regular,12,1458800.0,0.92,Belleza,Tarjeta Crédito,2026-08-22,Activo,70
+1093,28.0,Barranquilla,Regular,20,912900.0,1.98,Hogar,Transferencia,2026-10-25,Activo,6
+1094,27.0,Cali,Regular,31,1463500.0,2.34,Alimentos,Tarjeta Débito,2026-10-31,Activo,0
+1095,29.0,Medellín,Regular,13,1398800.0,0.98,Deportes,Transferencia,2026-10-10,Activo,21
+1096,32.0,Bogotá,Regular,16,1389600.0,1.18,Ropa,Tarjeta Crédito,2026-07-28,Activo,95
+1097,32.0,Bogotá,Regular,21,1321700.0,2.03,Electrónica,Tarjeta Crédito,2026-09-23,Activo,38
+1098,46.0,Bogotá,Básico,3,683000.0,0.29,Electrónica,Efectivo,2026-01-18,Inactivo,286
+1099,38.0,Medellín,Regular,4,921900.0,0.3,Alimentos,Tarjeta Crédito,2026-06-22,Activo,131
+1100,39.0,Cali,Regular,25,1133000.0,2.1,Electrónica,Tarjeta Débito,2026-09-24,Activo,37
+1101,38.0,Cartagena,Regular,21,1276300.0,1.82,Electrónica,Transferencia,2026-10-08,Activo,23
+1102,39.0,Barranquilla,Regular,31,2075300.0,2.52,Belleza,Tarjeta Crédito,2026-10-10,Activo,21
+1103,43.0,Medellín,Regular,6,1456700.0,0.59,Alimentos,Tarjeta Débito,2025-09-27,Inactivo,399
+1104,68.0,Bogotá,Regular,3,958600.0,0.24,Ropa,Tarjeta Débito,2025-12-06,Inactivo,329
+1105,37.0,Medellín,Regular,28,1380200.0,2.03,Electrónica,Tarjeta Crédito,2026-10-04,Activo,27
+1106,59.0,Bogotá,Regular,5,862700.0,0.39,Deportes,Efectivo,2025-12-30,Inactivo,305
+1107,25.0,Bucaramanga,Regular,26,2306600.0,2.19,Alimentos,Tarjeta Débito,2026-10-12,Activo,19
+1108,34.0,Medellín,Regular,11,2128400.0,0.79,Hogar,Tarjeta Crédito,2026-08-22,Activo,70
+1109,53.0,Bogotá,Regular,4,962400.0,0.31,Deportes,Tarjeta Débito,2026-04-30,Inactivo,184
+1110,41.0,Bucaramanga,Regular,23,1173100.0,2.25,Hogar,Tarjeta Débito,2026-10-29,Activo,2
+1111,38.0,Bogotá,Regular,29,1740800.0,2.29,Alimentos,Tarjeta Débito,2026-09-28,Activo,33
+1112,28.0,Bogotá,Regular,9,1475000.0,0.88,Alimentos,Transferencia,2026-07-26,Activo,97
+1113,57.0,Medellín,Básico,8,785400.0,0.71,Hogar,Efectivo,2026-07-22,Activo,101
+1114,41.0,Bogotá,Básico,1,211900.0,0.08,Belleza,Tarjeta Débito,2025-11-22,Inactivo,343
+1115,50.0,Bogotá,Regular,6,1469500.0,0.55,Deportes,Transferencia,2026-04-02,Inactivo,212
+1116,30.0,Cartagena,Regular,28,1600400.0,2.76,Hogar,Efectivo,2026-10-21,Activo,10
+1117,31.0,Bucaramanga,Regular,18,1029900.0,1.44,Electrónica,Tarjeta Crédito,2026-10-30,Activo,1
+1118,35.0,Barranquilla,Regular,4,1004800.0,0.36,Hogar,Tarjeta Crédito,2025-11-07,Inactivo,358
+1119,29.0,Barranquilla,Regular,23,1227700.0,1.9,Ropa,Tarjeta Crédito,2026-10-22,Activo,9
+1120,53.0,Bogotá,Regular,5,1419100.0,0.45,Alimentos,Tarjeta Crédito,2026-05-23,Activo,161
+1121,47.0,Bucaramanga,Premium,16,2516000.0,1.26,Ropa,Tarjeta Débito,2026-08-17,Activo,75
+1122,25.0,Medellín,Premium,39,3261000.0,2.87,Electrónica,Tarjeta Crédito,2026-10-02,Activo,29
+1123,39.0,Bogotá,Regular,6,1676500.0,0.58,Deportes,Transferencia,2025-12-20,Inactivo,315
+1124,34.0,Medellín,Regular,20,1383000.0,1.52,Ropa,Tarjeta Débito,2026-10-22,Activo,9
+1125,38.0,Cali,Regular,11,1781400.0,1.04,Ropa,Tarjeta Crédito,2026-09-14,Activo,47
+1126,49.0,Bogotá,Regular,11,1539900.0,0.97,Alimentos,Transferencia,2026-07-25,Activo,98
+1127,44.0,Bogotá,Regular,14,1881000.0,1.22,Belleza,Tarjeta Débito,2026-08-17,Activo,75
+1128,25.0,Medellín,Regular,10,1939500.0,0.92,Electrónica,Tarjeta Crédito,2026-10-01,Activo,30
+1129,39.0,Medellín,Premium,15,2516200.0,1.46,Belleza,Tarjeta Crédito,2026-10-19,Activo,12
+1130,64.0,Bogotá,Básico,3,672500.0,0.23,Alimentos,Efectivo,2026-07-01,Activo,122
+1131,59.0,Cali,Regular,4,985700.0,0.3,Alimentos,Tarjeta Débito,2025-12-31,Inactivo,304
+1132,38.0,Bogotá,Regular,15,2272800.0,1.07,Electrónica,Tarjeta Débito,2026-10-18,Activo,13
+1133,22.0,Cali,Básico,17,416200.0,1.24,Deportes,Transferencia,2026-10-19,Activo,12
+1134,48.0,Bogotá,Regular,12,1602000.0,1.02,Deportes,Efectivo,2026-08-22,Activo,70
+1135,55.0,Medellín,Regular,4,1498000.0,0.38,Alimentos,Transferencia,2026-06-29,Activo,124
+1136,26.0,Cali,Regular,29,1665600.0,2.89,Deportes,Efectivo,2026-10-25,Activo,6
+1137,27.0,Barranquilla,Regular,9,1457700.0,0.74,Belleza,Efectivo,2026-10-12,Activo,19
+1138,30.0,Bogotá,Regular,10,1103600.0,0.74,Belleza,Tarjeta Crédito,2026-09-07,Activo,54
+1139,24.0,Cali,Básico,19,285000.0,1.72,Hogar,Tarjeta Débito,2026-10-26,Activo,5
+1140,48.0,Bucaramanga,Regular,9,1433900.0,0.83,Deportes,Tarjeta Débito,2026-10-05,Activo,26
+1141,42.0,Bogotá,Regular,13,1870700.0,1.11,Electrónica,Tarjeta Débito,2026-08-19,Activo,73
+1142,38.0,Cali,Básico,1,257700.0,0.07,Alimentos,Tarjeta Crédito,2025-11-10,Inactivo,355
+1143,40.0,Medellín,Regular,4,1311400.0,0.34,Electrónica,Tarjeta Débito,2025-11-20,Inactivo,345
+1144,72.0,Bogotá,Básico,2,635200.0,0.16,Hogar,Tarjeta Débito,2025-12-12,Inactivo,323
+1145,34.0,Medellín,Regular,11,1829400.0,0.93,Deportes,Tarjeta Débito,2026-09-29,Activo,32
+1146,42.0,Cartagena,Regular,28,2179800.0,2.44,Ropa,Tarjeta Débito,2026-10-21,Activo,10
+1147,34.0,Barranquilla,Regular,11,1482600.0,0.94,Belleza,Transferencia,2026-08-11,Activo,81
+1148,52.0,Bogotá,Regular,3,963400.0,0.23,Electrónica,Tarjeta Débito,2026-01-27,Inactivo,277
+1149,60.0,Bogotá,Regular,16,2312200.0,1.23,Belleza,Efectivo,2026-10-03,Activo,28
+1150,51.0,Cali,Regular,6,1726300.0,0.51,Deportes,Tarjeta Débito,2025-11-16,Inactivo,349
+1151,35.0,Bogotá,Regular,24,1009400.0,2.17,Ropa,Tarjeta Débito,2026-10-16,Activo,15
+1152,38.0,Medellín,Básico,1,355900.0,0.09,Electrónica,Transferencia,2026-03-26,Inactivo,219
+1153,37.0,Bogotá,Regular,23,1325100.0,2.3,Electrónica,Transferencia,2026-09-26,Activo,35
+1154,35.0,Barranquilla,Regular,25,1714700.0,2.39,Ropa,Efectivo,2026-10-23,Activo,8
+1155,50.0,Barranquilla,Regular,11,1893900.0,1.03,Alimentos,Transferencia,2026-08-11,Activo,81
+1156,26.0,Cartagena,Regular,28,2047600.0,2.19,Alimentos,Tarjeta Débito,2026-10-18,Activo,13
+1157,38.0,Bogotá,Regular,28,1027500.0,2.11,Hogar,Transferencia,2026-10-30,Activo,1
+1158,40.0,Bucaramanga,Regular,30,1826100.0,2.32,Alimentos,Transferencia,2026-10-15,Activo,16
+1159,39.0,Bucaramanga,Regular,14,2262700.0,1.09,Alimentos,Efectivo,2026-07-26,Activo,97
+1160,47.0,Bucaramanga,Básico,2,377200.0,0.14,Ropa,Transferencia,2026-03-22,Inactivo,223
+1161,26.0,Barranquilla,Regular,26,1477400.0,1.88,Hogar,Efectivo,2026-09-22,Activo,39
+1162,45.0,Bogotá,Regular,13,1999000.0,1.17,Ropa,Tarjeta Débito,2026-08-29,Activo,63
+1163,67.0,Bucaramanga,Regular,8,2425800.0,0.76,Deportes,Tarjeta Débito,2026-01-16,Inactivo,288
+1164,36.0,Cali,Regular,24,1858300.0,2.26,Alimentos,Tarjeta Débito,2026-10-17,Activo,14
+1165,33.0,Barranquilla,Regular,26,1688700.0,1.91,Electrónica,Efectivo,2026-10-26,Activo,5
+1166,70.0,Bogotá,Básico,3,607900.0,0.29,Belleza,Tarjeta Crédito,2026-06-22,Activo,131
+1167,58.0,Bogotá,Regular,6,2339700.0,0.53,Hogar,Efectivo,2026-05-28,Activo,156
+1168,44.0,Bogotá,Regular,15,2377000.0,1.24,Deportes,Tarjeta Débito,2026-08-18,Activo,74
+1169,36.0,Cali,Básico,2,505400.0,0.16,Electrónica,Tarjeta Débito,2025-11-08,Inactivo,357
+1170,36.0,Medellín,Regular,22,1066400.0,1.78,Hogar,Tarjeta Crédito,2026-09-23,Activo,38
+1171,38.0,Bucaramanga,Regular,9,830900.0,0.68,Alimentos,Tarjeta Crédito,2026-07-07,Activo,116
+1172,49.0,Bogotá,Regular,14,1998100.0,1.14,Belleza,Tarjeta Débito,2026-08-03,Activo,89
+1173,32.0,Bogotá,Regular,37,1611300.0,2.76,Alimentos,Tarjeta Débito,2026-10-21,Activo,10
+1174,32.0,Medellín,Básico,2,687800.0,0.19,Electrónica,Tarjeta Crédito,2025-11-03,Inactivo,362
+1175,48.0,Bogotá,Regular,8,1174200.0,0.6,Belleza,Tarjeta Crédito,2026-10-18,Activo,13
+1176,58.0,Medellín,Básico,2,307100.0,0.16,Hogar,Tarjeta Débito,2026-01-13,Inactivo,291
+1177,43.0,Barranquilla,Regular,12,1807700.0,1.1,Ropa,Tarjeta Crédito,2026-09-02,Activo,59
+1178,35.0,Cartagena,Regular,14,2009700.0,1.01,Electrónica,Tarjeta Crédito,2026-08-08,Activo,84
+1179,34.0,Bogotá,Regular,32,1695300.0,2.33,Deportes,Efectivo,2026-09-28,Activo,33
+1180,32.0,Bogotá,Regular,29,4678000.0,2.17,Ropa,Efectivo,2026-10-10,Activo,21
+1181,45.0,Barranquilla,Regular,4,1274000.0,0.29,Hogar,Transferencia,2025-10-19,Inactivo,377
+1182,26.0,Bogotá,Regular,18,1139700.0,1.56,Alimentos,Tarjeta Crédito,2026-10-01,Activo,30
+1183,43.0,Barranquilla,Regular,20,973300.0,1.83,Hogar,Tarjeta Crédito,2026-10-15,Activo,16
+1184,23.0,Cali,Regular,34,2476300.0,3.17,Alimentos,Tarjeta Crédito,2026-09-22,Activo,39
+1185,31.0,Bucaramanga,Regular,23,1568600.0,1.7,Alimentos,Tarjeta Débito,2026-09-28,Activo,33
+1186,40.0,Bogotá,Básico,3,721300.0,0.23,Deportes,Tarjeta Crédito,2025-11-11,Inactivo,354
+1187,43.0,Cartagena,Regular,9,1067300.0,0.65,Deportes,Tarjeta Crédito,2026-08-21,Activo,71
+1188,68.0,Cartagena,Básico,2,602000.0,0.15,Alimentos,Tarjeta Débito,2026-06-26,Activo,127
+1189,25.0,Bogotá,Regular,36,1524300.0,2.87,Electrónica,Tarjeta Débito,2026-10-23,Activo,8
+1190,25.0,Medellín,Regular,14,4678000.0,1.32,Hogar,Tarjeta Débito,2026-09-22,Activo,39
+1191,35.0,Medellín,Regular,10,1652700.0,0.94,Alimentos,Tarjeta Débito,2026-07-19,Activo,104
+1192,27.0,Bogotá,Regular,8,1043900.0,0.67,Alimentos,Transferencia,2026-07-14,Activo,109
+1193,50.0,Cartagena,Regular,3,868400.0,0.23,Alimentos,Tarjeta Débito,2026-05-20,Activo,164
+1194,44.0,Bogotá,Regular,5,1202200.0,0.47,Deportes,Tarjeta Crédito,2026-04-15,Inactivo,199
+1195,44.0,Bogotá,Básico,3,1498000.0,0.22,Belleza,Tarjeta Débito,2026-04-10,Inactivo,204
+1196,29.0,Bogotá,Regular,25,1159200.0,1.96,Alimentos,Tarjeta Crédito,2026-09-28,Activo,33
+1197,23.0,Cali,Regular,36,1574500.0,3.2,Electrónica,Tarjeta Crédito,2026-10-25,Activo,6
+1198,45.0,Bucaramanga,Regular,15,1743600.0,1.11,Ropa,Tarjeta Débito,2026-09-05,Activo,56
+1199,34.0,Cali,Regular,32,1755100.0,2.58,Hogar,Tarjeta Crédito,2026-10-20,Activo,11
+1200,39.0,Barranquilla,Premium,16,2530000.0,1.24,Alimentos,Tarjeta Crédito,2026-09-25,Activo,36

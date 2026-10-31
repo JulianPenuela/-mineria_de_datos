@@ -1,0 +1,187 @@
+{
+ "registros_original": 1230,
+ "registros_limpio": 1200,
+ "duplicados_eliminados": 30,
+ "celdas_modificadas": 963,
+ "cambios_por_motivo": {
+  "Texto normalizado": 819,
+  "Faltante imputado (mediana)": 75,
+  "Faltante imputado (moda)": 55,
+  "Edad fuera de 18-100 (imputada)": 8,
+  "Atípico limitado a Q3+3·IQR": 6
+ },
+ "indicadores": {
+  "Ticket promedio por compra": 97986.31324004306,
+  "% clientes inactivos": 17.333333333333336,
+  "Valor total por cliente (media)": 1517154.75,
+  "Frecuencia mensual media": 1.2968
+ },
+ "k": 3,
+ "silhouette_por_k": {
+  "2": 0.4262103772683817,
+  "3": 0.4568884581569184,
+  "4": 0.4145821533817981,
+  "5": 0.3957496946700259,
+  "6": 0.4032448588163083,
+  "7": 0.3722084892769337,
+  "8": 0.3707857236396023
+ },
+ "perfil_segmentos": {
+  "Frecuentes": {
+   "clientes": 413,
+   "compras": 28.5,
+   "valor": 1716943.1,
+   "frecuencia": 2.4,
+   "dias_sin_comprar": 20.7,
+   "edad": 31.3,
+   "inactivos": 0.0,
+   "ticket": 60159.0
+  },
+  "Intermedios": {
+   "clientes": 485,
+   "compras": 12.1,
+   "valor": 1812311.8,
+   "frecuencia": 1.0,
+   "dias_sin_comprar": 65.2,
+   "edad": 39.9,
+   "inactivos": 1.4,
+   "ticket": 150149.0
+  },
+  "Ocasionales": {
+   "clientes": 302,
+   "compras": 3.1,
+   "valor": 769923.8,
+   "frecuencia": 0.3,
+   "dias_sin_comprar": 244.1,
+   "edad": 48.5,
+   "inactivos": 66.6,
+   "ticket": 247622.0
+  }
+ },
+ "clasificacion": {
+  "Regresión logística": {
+   "accuracy": 0.6366666666666667,
+   "precision": 0.6168831168831169,
+   "recall": 0.6551724137931034,
+   "f1": 0.6354515050167224
+  },
+  "Random Forest": {
+   "accuracy": 0.7766666666666666,
+   "precision": 0.76,
+   "recall": 0.7862068965517242,
+   "f1": 0.7728813559322034
+  }
+ },
+ "matriz_confusion_random_forest": [
+  [
+   119,
+   36
+  ],
+  [
+   31,
+   114
+  ]
+ ],
+ "validacion_cruzada": [
+  {
+   "tarea": "Clasificación",
+   "modelo": "Regresión logística",
+   "metrica": "accuracy",
+   "media": 0.6575000000000001,
+   "desviacion": 0.019965247584518238,
+   "minimo": 0.6375,
+   "maximo": 0.6875
+  },
+  {
+   "tarea": "Clasificación",
+   "modelo": "Regresión logística",
+   "metrica": "f1",
+   "media": 0.6340726170224998,
+   "desviacion": 0.02844998414911445,
+   "minimo": 0.6027397260273972,
+   "maximo": 0.6724890829694323
+  },
+  {
+   "tarea": "Clasificación",
+   "modelo": "Random Forest",
+   "metrica": "accuracy",
+   "media": 0.7975,
+   "desviacion": 0.020000000000000007,
+   "minimo": 0.7625,
+   "maximo": 0.8208333333333333
+  },
+  {
+   "tarea": "Clasificación",
+   "modelo": "Random Forest",
+   "metrica": "f1",
+   "media": 0.7975633433069073,
+   "desviacion": 0.022554690597062645,
+   "minimo": 0.759493670886076,
+   "maximo": 0.8259109311740891
+  },
+  {
+   "tarea": "Regresión",
+   "modelo": "Regresión lineal",
+   "metrica": "r2",
+   "media": 0.2514841479787668,
+   "desviacion": 0.04396057818560515,
+   "minimo": 0.17495848717422469,
+   "maximo": 0.29989368466147603
+  },
+  {
+   "tarea": "Regresión",
+   "modelo": "Regresión lineal",
+   "metrica": "rmse",
+   "media": 613384.1080144367,
+   "desviacion": 56002.51343722197,
+   "minimo": 551236.5093865191,
+   "maximo": 702593.6292095139
+  },
+  {
+   "tarea": "Regresión",
+   "modelo": "Random Forest",
+   "metrica": "r2",
+   "media": 0.5498315865971428,
+   "desviacion": 0.02668184234795574,
+   "minimo": 0.5025417123075686,
+   "maximo": 0.5852324505213026
+  },
+  {
+   "tarea": "Regresión",
+   "modelo": "Random Forest",
+   "metrica": "rmse",
+   "media": 475917.58681623294,
+   "desviacion": 45844.797267541,
+   "minimo": 419255.9459383417,
+   "maximo": 545562.6651127625
+  }
+ ],
+ "estabilidad_kmeans": [
+  {
+   "prueba": "20 semillas distintas",
+   "media": 0.9972397706832579,
+   "minimo": 0.997239770683258,
+   "maximo": 0.997239770683258
+  },
+  {
+   "prueba": "20 submuestras del 80 %",
+   "media": 0.9902369023964936,
+   "minimo": 0.9384257020928685,
+   "maximo": 0.9965795010293048
+  }
+ ],
+ "regresion": {
+  "Regresión lineal": {
+   "MAE": 505909.8390771356,
+   "RMSE": 673910.0703645834,
+   "R2": 0.20466742138777072
+  },
+  "Random Forest": {
+   "MAE": 340821.6044444444,
+   "RMSE": 518295.47868237464,
+   "R2": 0.52956489670848
+  }
+ },
+ "desviacion_valor_total": 756924.5531245122,
+ "semilla_modelos": 0
+}

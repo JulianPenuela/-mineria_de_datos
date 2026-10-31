@@ -1,0 +1,964 @@
+﻿id_cliente,campo,valor_original,valor_limpio,motivo
+1,edad,,38.0,Faltante imputado (mediana)
+98,edad,,38.0,Faltante imputado (mediana)
+142,edad,150.0,38.0,Edad fuera de 18-100 (imputada)
+145,edad,,38.0,Faltante imputado (mediana)
+173,edad,,38.0,Faltante imputado (mediana)
+187,edad,,38.0,Faltante imputado (mediana)
+191,edad,,38.0,Faltante imputado (mediana)
+201,edad,150.0,38.0,Edad fuera de 18-100 (imputada)
+218,edad,,38.0,Faltante imputado (mediana)
+228,edad,,38.0,Faltante imputado (mediana)
+252,edad,,38.0,Faltante imputado (mediana)
+259,edad,,38.0,Faltante imputado (mediana)
+264,edad,,38.0,Faltante imputado (mediana)
+272,edad,,38.0,Faltante imputado (mediana)
+310,edad,,38.0,Faltante imputado (mediana)
+315,edad,,38.0,Faltante imputado (mediana)
+349,edad,,38.0,Faltante imputado (mediana)
+433,edad,0.0,38.0,Edad fuera de 18-100 (imputada)
+449,edad,,38.0,Faltante imputado (mediana)
+475,edad,-5.0,38.0,Edad fuera de 18-100 (imputada)
+526,edad,,38.0,Faltante imputado (mediana)
+556,edad,,38.0,Faltante imputado (mediana)
+582,edad,,38.0,Faltante imputado (mediana)
+604,edad,150.0,38.0,Edad fuera de 18-100 (imputada)
+659,edad,,38.0,Faltante imputado (mediana)
+717,edad,,38.0,Faltante imputado (mediana)
+740,edad,-5.0,38.0,Edad fuera de 18-100 (imputada)
+789,edad,-5.0,38.0,Edad fuera de 18-100 (imputada)
+790,edad,,38.0,Faltante imputado (mediana)
+796,edad,,38.0,Faltante imputado (mediana)
+858,edad,,38.0,Faltante imputado (mediana)
+861,edad,,38.0,Faltante imputado (mediana)
+864,edad,,38.0,Faltante imputado (mediana)
+897,edad,,38.0,Faltante imputado (mediana)
+942,edad,,38.0,Faltante imputado (mediana)
+951,edad,,38.0,Faltante imputado (mediana)
+975,edad,,38.0,Faltante imputado (mediana)
+1034,edad,,38.0,Faltante imputado (mediana)
+1045,edad,,38.0,Faltante imputado (mediana)
+1071,edad,,38.0,Faltante imputado (mediana)
+1099,edad,,38.0,Faltante imputado (mediana)
+1111,edad,,38.0,Faltante imputado (mediana)
+1125,edad,0.0,38.0,Edad fuera de 18-100 (imputada)
+1132,edad,,38.0,Faltante imputado (mediana)
+1142,edad,,38.0,Faltante imputado (mediana)
+1152,edad,,38.0,Faltante imputado (mediana)
+1157,edad,,38.0,Faltante imputado (mediana)
+1171,edad,,38.0,Faltante imputado (mediana)
+1,ciudad,,Bogotá,Faltante imputado (moda)
+3,ciudad,,Bogotá,Faltante imputado (moda)
+5,ciudad,CARTAGENA,Cartagena,Texto normalizado
+7,ciudad,,Bogotá,Faltante imputado (moda)
+39,ciudad,CALI,Cali,Texto normalizado
+45,ciudad,,Bogotá,Faltante imputado (moda)
+98,ciudad,CALI,Cali,Texto normalizado
+100,ciudad,,Bogotá,Faltante imputado (moda)
+115,ciudad,,Bogotá,Faltante imputado (moda)
+134,ciudad,MEDELLÍN,Medellín,Texto normalizado
+136,ciudad,,Bogotá,Faltante imputado (moda)
+139,ciudad,CALI,Cali,Texto normalizado
+175,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+178,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+197,ciudad,,Bogotá,Faltante imputado (moda)
+278,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+325,ciudad,BARRANQUILLA,Barranquilla,Texto normalizado
+347,ciudad,,Bogotá,Faltante imputado (moda)
+380,ciudad,,Bogotá,Faltante imputado (moda)
+422,ciudad,,Bogotá,Faltante imputado (moda)
+441,ciudad,,Bogotá,Faltante imputado (moda)
+462,ciudad,CARTAGENA,Cartagena,Texto normalizado
+484,ciudad,,Bogotá,Faltante imputado (moda)
+513,ciudad,,Bogotá,Faltante imputado (moda)
+517,ciudad,,Bogotá,Faltante imputado (moda)
+529,ciudad,CALI,Cali,Texto normalizado
+552,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+591,ciudad,CARTAGENA,Cartagena,Texto normalizado
+633,ciudad,BARRANQUILLA,Barranquilla,Texto normalizado
+640,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+656,ciudad,,Bogotá,Faltante imputado (moda)
+666,ciudad,CARTAGENA,Cartagena,Texto normalizado
+673,ciudad,,Bogotá,Faltante imputado (moda)
+683,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+694,ciudad,BARRANQUILLA,Barranquilla,Texto normalizado
+706,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+764,ciudad,CARTAGENA,Cartagena,Texto normalizado
+768,ciudad,,Bogotá,Faltante imputado (moda)
+784,ciudad,,Bogotá,Faltante imputado (moda)
+786,ciudad,CARTAGENA,Cartagena,Texto normalizado
+827,ciudad,,Bogotá,Faltante imputado (moda)
+828,ciudad,CALI,Cali,Texto normalizado
+875,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+876,ciudad,,Bogotá,Faltante imputado (moda)
+899,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+900,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+917,ciudad,MEDELLÍN,Medellín,Texto normalizado
+926,ciudad,CALI,Cali,Texto normalizado
+941,ciudad,,Bogotá,Faltante imputado (moda)
+945,ciudad,,Bogotá,Faltante imputado (moda)
+957,ciudad,,Bogotá,Faltante imputado (moda)
+966,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+1001,ciudad,,Bogotá,Faltante imputado (moda)
+1004,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+1007,ciudad,CARTAGENA,Cartagena,Texto normalizado
+1011,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+1025,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+1042,ciudad,,Bogotá,Faltante imputado (moda)
+1048,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+1053,ciudad,MEDELLÍN,Medellín,Texto normalizado
+1069,ciudad,CALI,Cali,Texto normalizado
+1097,ciudad,,Bogotá,Faltante imputado (moda)
+1102,ciudad,BARRANQUILLA,Barranquilla,Texto normalizado
+1144,ciudad,,Bogotá,Faltante imputado (moda)
+1148,ciudad,,Bogotá,Faltante imputado (moda)
+1166,ciudad,,Bogotá,Faltante imputado (moda)
+1167,ciudad,BOGOTÁ,Bogotá,Texto normalizado
+1178,ciudad,CARTAGENA,Cartagena,Texto normalizado
+1183,ciudad,BARRANQUILLA,Barranquilla,Texto normalizado
+1185,ciudad,BUCARAMANGA,Bucaramanga,Texto normalizado
+16,valor_total,,1498000.0,Faltante imputado (mediana)
+25,valor_total,,1498000.0,Faltante imputado (mediana)
+65,valor_total,,1498000.0,Faltante imputado (mediana)
+66,valor_total,,1498000.0,Faltante imputado (mediana)
+90,valor_total,,1498000.0,Faltante imputado (mediana)
+148,valor_total,,1498000.0,Faltante imputado (mediana)
+155,valor_total,,1498000.0,Faltante imputado (mediana)
+176,valor_total,,1498000.0,Faltante imputado (mediana)
+270,valor_total,,1498000.0,Faltante imputado (mediana)
+275,valor_total,,1498000.0,Faltante imputado (mediana)
+288,valor_total,,1498000.0,Faltante imputado (mediana)
+300,valor_total,,1498000.0,Faltante imputado (mediana)
+311,valor_total,35565000.0,4678000.0,Atípico limitado a Q3+3·IQR
+322,valor_total,,1498000.0,Faltante imputado (mediana)
+365,valor_total,,1498000.0,Faltante imputado (mediana)
+372,valor_total,,1498000.0,Faltante imputado (mediana)
+410,valor_total,,1498000.0,Faltante imputado (mediana)
+428,valor_total,,1498000.0,Faltante imputado (mediana)
+445,valor_total,,1498000.0,Faltante imputado (mediana)
+448,valor_total,,1498000.0,Faltante imputado (mediana)
+465,valor_total,,1498000.0,Faltante imputado (mediana)
+476,valor_total,,1498000.0,Faltante imputado (mediana)
+486,valor_total,,1498000.0,Faltante imputado (mediana)
+494,valor_total,24565500.0,4678000.0,Atípico limitado a Q3+3·IQR
+614,valor_total,,1498000.0,Faltante imputado (mediana)
+623,valor_total,,1498000.0,Faltante imputado (mediana)
+663,valor_total,,1498000.0,Faltante imputado (mediana)
+705,valor_total,,1498000.0,Faltante imputado (mediana)
+716,valor_total,,1498000.0,Faltante imputado (mediana)
+740,valor_total,,1498000.0,Faltante imputado (mediana)
+799,valor_total,,1498000.0,Faltante imputado (mediana)
+812,valor_total,17265000.0,4678000.0,Atípico limitado a Q3+3·IQR
+836,valor_total,,1498000.0,Faltante imputado (mediana)
+851,valor_total,,1498000.0,Faltante imputado (mediana)
+861,valor_total,,1498000.0,Faltante imputado (mediana)
+891,valor_total,,1498000.0,Faltante imputado (mediana)
+929,valor_total,32334000.0,4678000.0,Atípico limitado a Q3+3·IQR
+1135,valor_total,,1498000.0,Faltante imputado (mediana)
+1180,valor_total,28095000.0,4678000.0,Atípico limitado a Q3+3·IQR
+1190,valor_total,25398000.0,4678000.0,Atípico limitado a Q3+3·IQR
+1195,valor_total,,1498000.0,Faltante imputado (mediana)
+33,producto,deportes ,Deportes,Texto normalizado
+37,producto,electrónica ,Electrónica,Texto normalizado
+121,producto,hogar ,Hogar,Texto normalizado
+190,producto,deportes ,Deportes,Texto normalizado
+197,producto,alimentos ,Alimentos,Texto normalizado
+212,producto,alimentos ,Alimentos,Texto normalizado
+263,producto,alimentos ,Alimentos,Texto normalizado
+274,producto,electrónica ,Electrónica,Texto normalizado
+324,producto,deportes ,Deportes,Texto normalizado
+460,producto,deportes ,Deportes,Texto normalizado
+496,producto,hogar ,Hogar,Texto normalizado
+516,producto,deportes ,Deportes,Texto normalizado
+655,producto,alimentos ,Alimentos,Texto normalizado
+726,producto,hogar ,Hogar,Texto normalizado
+740,producto,ropa ,Ropa,Texto normalizado
+746,producto,alimentos ,Alimentos,Texto normalizado
+804,producto,electrónica ,Electrónica,Texto normalizado
+816,producto,hogar ,Hogar,Texto normalizado
+953,producto,deportes ,Deportes,Texto normalizado
+1035,producto,deportes ,Deportes,Texto normalizado
+1,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+2,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+4,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+5,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+8,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+9,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+11,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+12,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+13,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+14,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+15,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+17,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+18,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+19,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+20,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+25,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+26,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+27,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+29,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+30,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+31,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+32,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+33,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+35,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+36,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+37,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+38,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+39,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+40,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+41,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+42,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+44,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+47,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+48,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+49,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+50,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+51,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+52,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+54,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+55,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+58,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+59,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+60,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+63,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+65,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+66,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+67,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+69,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+70,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+72,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+74,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+75,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+76,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+79,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+82,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+83,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+85,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+87,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+90,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+91,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+92,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+94,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+95,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+96,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+97,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+98,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+99,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+101,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+103,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+105,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+106,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+109,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+110,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+111,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+112,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+115,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+116,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+117,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+118,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+119,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+121,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+122,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+124,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+125,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+126,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+127,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+128,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+129,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+131,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+132,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+134,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+135,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+136,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+137,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+138,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+140,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+141,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+142,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+143,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+147,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+148,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+150,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+151,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+152,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+153,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+156,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+157,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+159,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+161,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+163,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+164,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+168,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+170,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+171,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+172,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+173,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+176,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+177,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+178,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+179,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+180,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+182,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+183,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+185,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+186,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+187,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+188,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+189,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+191,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+198,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+199,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+203,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+207,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+208,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+209,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+210,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+211,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+212,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+214,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+216,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+218,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+219,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+220,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+221,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+222,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+225,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+227,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+228,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+229,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+230,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+231,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+233,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+235,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+236,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+237,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+238,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+239,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+242,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+243,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+244,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+245,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+247,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+250,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+253,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+255,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+260,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+261,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+266,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+267,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+271,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+272,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+273,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+274,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+276,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+277,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+278,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+280,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+281,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+282,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+283,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+284,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+286,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+287,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+288,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+289,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+290,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+291,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+292,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+293,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+296,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+297,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+299,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+302,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+303,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+305,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+306,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+307,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+308,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+311,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+312,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+314,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+316,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+317,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+319,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+320,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+321,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+322,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+323,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+324,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+326,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+327,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+330,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+332,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+333,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+334,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+335,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+336,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+337,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+338,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+344,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+345,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+346,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+347,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+348,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+349,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+350,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+351,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+353,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+354,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+355,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+356,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+358,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+359,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+361,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+362,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+363,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+364,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+365,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+366,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+367,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+368,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+369,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+370,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+371,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+372,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+373,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+374,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+375,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+378,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+380,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+381,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+382,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+383,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+385,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+386,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+388,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+389,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+390,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+392,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+394,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+398,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+399,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+401,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+404,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+405,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+406,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+408,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+409,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+411,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+412,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+413,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+414,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+415,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+420,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+421,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+422,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+424,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+426,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+428,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+430,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+431,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+433,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+437,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+438,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+439,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+440,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+441,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+444,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+446,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+447,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+448,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+451,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+452,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+453,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+454,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+455,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+458,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+461,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+463,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+464,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+465,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+467,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+468,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+469,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+470,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+471,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+472,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+474,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+475,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+478,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+479,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+480,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+481,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+483,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+484,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+485,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+486,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+487,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+489,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+490,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+492,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+493,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+494,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+495,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+496,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+497,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+500,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+501,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+503,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+504,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+506,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+508,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+510,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+511,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+512,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+514,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+515,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+517,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+518,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+519,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+521,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+522,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+524,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+525,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+526,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+527,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+528,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+529,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+530,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+532,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+533,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+534,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+541,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+542,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+543,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+544,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+545,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+546,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+547,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+549,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+550,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+552,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+553,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+554,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+555,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+557,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+559,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+561,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+562,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+563,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+564,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+567,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+569,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+571,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+572,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+573,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+574,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+576,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+577,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+579,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+580,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+582,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+584,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+585,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+586,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+587,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+588,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+589,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+591,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+593,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+595,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+597,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+598,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+599,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+603,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+604,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+605,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+606,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+607,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+610,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+612,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+613,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+614,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+615,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+616,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+619,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+622,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+623,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+625,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+626,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+631,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+634,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+635,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+636,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+640,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+641,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+642,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+644,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+646,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+647,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+648,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+650,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+652,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+653,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+654,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+655,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+656,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+657,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+658,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+659,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+660,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+661,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+663,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+664,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+665,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+666,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+667,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+668,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+669,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+670,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+672,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+673,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+674,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+675,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+677,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+678,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+681,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+683,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+685,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+687,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+688,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+689,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+690,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+691,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+692,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+693,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+695,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+696,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+698,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+700,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+701,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+702,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+703,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+704,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+705,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+706,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+707,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+709,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+712,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+715,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+716,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+717,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+719,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+720,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+722,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+723,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+724,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+726,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+727,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+728,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+729,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+731,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+732,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+734,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+735,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+738,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+739,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+740,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+741,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+742,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+743,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+744,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+745,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+749,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+750,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+751,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+752,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+755,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+756,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+757,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+759,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+760,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+761,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+763,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+764,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+767,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+769,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+771,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+774,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+775,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+777,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+779,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+780,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+782,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+784,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+785,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+786,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+787,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+789,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+790,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+792,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+793,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+796,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+798,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+799,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+800,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+802,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+804,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+805,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+808,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+809,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+811,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+812,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+813,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+815,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+816,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+817,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+818,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+819,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+820,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+821,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+822,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+823,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+825,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+826,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+827,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+828,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+832,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+834,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+835,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+836,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+837,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+838,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+839,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+842,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+843,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+844,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+846,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+847,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+848,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+849,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+850,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+854,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+855,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+857,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+858,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+860,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+861,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+862,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+863,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+864,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+865,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+866,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+871,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+872,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+873,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+874,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+876,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+878,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+879,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+881,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+886,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+887,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+889,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+890,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+891,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+892,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+893,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+895,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+896,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+897,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+898,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+899,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+901,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+902,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+903,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+904,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+909,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+911,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+913,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+914,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+915,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+916,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+917,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+918,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+920,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+921,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+922,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+923,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+924,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+925,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+926,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+927,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+928,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+929,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+932,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+933,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+935,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+936,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+937,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+938,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+941,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+942,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+944,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+945,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+946,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+949,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+951,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+952,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+955,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+956,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+958,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+959,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+960,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+961,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+962,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+963,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+964,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+965,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+966,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+967,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+968,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+969,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+972,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+975,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+977,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+978,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+979,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+980,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+983,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+984,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+987,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+988,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+989,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+990,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+994,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+999,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1000,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1001,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1002,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1003,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1005,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1006,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1007,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1010,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1015,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1017,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1019,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1020,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1026,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1028,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1029,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1030,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1031,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1034,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1036,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1038,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1039,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1041,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1042,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1043,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1044,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1045,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1046,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1047,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1049,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1050,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1057,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1058,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1059,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1060,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1061,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1062,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1063,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1065,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1069,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1072,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1073,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1074,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1077,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1079,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1081,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+1082,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1085,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1087,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1088,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1089,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1090,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1091,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1092,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1094,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1096,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1097,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1099,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1100,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1102,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1103,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1104,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1105,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1107,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1108,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1109,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1110,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1111,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1114,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1117,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1118,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1119,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1120,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1121,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1122,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1124,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1125,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1127,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1128,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1129,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1131,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1132,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1138,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1139,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1140,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1141,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1142,medio_pago,,Tarjeta Crédito,Faltante imputado (moda)
+1143,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1144,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1145,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1146,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1148,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1150,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1151,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1156,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1162,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1163,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1164,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1166,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1168,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1169,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1170,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1171,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1172,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1173,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1174,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1175,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1176,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1177,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1178,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1182,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1183,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1184,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1185,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1186,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1187,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1188,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1189,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1190,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1191,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1193,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1194,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1195,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1196,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1197,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1198,medio_pago,Tarjeta débito,Tarjeta Débito,Texto normalizado
+1199,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado
+1200,medio_pago,Tarjeta crédito,Tarjeta Crédito,Texto normalizado

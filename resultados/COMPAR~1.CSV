@@ -1,0 +1,10 @@
+﻿Variable,Nulos antes,Nulos después,Antes → después
+edad,44,0,media 39.2 → 39.1; rango -5.0-150 → 18.0-80.0
+num_compras,0,0,media 15.5 → 15.5; rango 1.0-46.0 → 1.0-46.0
+valor_total,36,0,"media 1,633,810 → 1,517,155; rango 188,700-35,565,000 → 188,700-4,678,000"
+frecuencia_mensual,0,0,media 1.3 → 1.3; rango 0.1-3.7 → 0.1-3.7
+ciudad,31,0,12 → 6 valores distintos
+tipo_cliente,0,0,3 → 3 valores distintos
+producto,0,0,11 → 6 valores distintos
+medio_pago,25,0,4 → 4 valores distintos
+estado,0,0,2 → 2 valores distintos
